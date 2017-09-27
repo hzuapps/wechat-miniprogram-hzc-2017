@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+p {
+	color:red;
+	font-weight:bolder;
+}
+
+#mytable {
+	border-color:red;
+}
