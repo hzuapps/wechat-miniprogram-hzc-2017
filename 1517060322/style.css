@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#p1 {
+    background-color: blue;
+}
+
+#div1{
+	background-color:red;
+	}
+	
+#table1{
+	border:thin double #F00
+	}
