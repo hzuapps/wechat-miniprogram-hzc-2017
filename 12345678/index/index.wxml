@@ -1,17 +1,20 @@
 <!--index.wxml-->
-<view class="container">
-  <view class="userinfo">
-    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
-    <block wx:else>
-      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
-      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
-    </block>
-  </view>
-  <view bindtap="changeColor" class="{{textClass}}">
-    <text>这是一个微信小程序演示版本。</text>
-  </view>
-  <view class="usermotto">
-    <navigator url="/pages/comp/view?title=view" hover-class="navigator-hover">view</navigator>
-    <navigator url="/pages/comp/scroll?title=scroll" hover-class="navigator-hover">scroll-view</navigator>
-  </view>
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">微信小程序开发</view>
+        <view class="page__desc">示例列表</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">组件开发</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/comp/view" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">view用法</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/comp/scroll" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">scroll-view用法</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+    </view>
 </view>
