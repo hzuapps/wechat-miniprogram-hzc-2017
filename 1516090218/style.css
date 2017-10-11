@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+p#p1 {background-color:#009
+}
+#f1 {
+	background-color:#C30;
+	border: thin solid #F00;
+}
+.table {
+	border: thin double #F00;
+}
