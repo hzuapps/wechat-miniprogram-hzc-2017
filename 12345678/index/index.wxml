@@ -7,7 +7,11 @@
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
   </view>
+  <view bindtap="changeColor" class="{{textClass}}">
+    <text>这是一个微信小程序演示版本。</text>
+  </view>
   <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
+    <navigator url="/pages/comp/view?title=view" hover-class="navigator-hover">view</navigator>
+    <navigator url="/pages/comp/scroll?title=scroll" hover-class="navigator-hover">scroll-view</navigator>
   </view>
 </view>
