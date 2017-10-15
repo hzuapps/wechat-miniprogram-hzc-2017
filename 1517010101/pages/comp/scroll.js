@@ -9,25 +9,25 @@ Page({
   data: {
     isEnd: false,
     messages: [{
-      name: "习近平",
+      name: "张三",
       last: "您好！"
     }, {
-      name: "李克强",
+      name: "李四",
       last: "您好！"
     }, {
-      name: "习近平",
+      name: "王五",
       last: "您好！"
     }, {
-      name: "李克强",
+      name: "张三",
       last: "您好！"
     }, {
-      name: "习近平",
+      name: "李四",
       last: "您好！"
     }, {
-      name: "李克强",
+      name: "王五",
       last: "您好！"
     }, {
-      name: "习近平",
+      name: "张三",
       last: "您好！"
     }]
   },
