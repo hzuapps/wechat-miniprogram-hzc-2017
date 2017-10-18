@@ -13,6 +13,7 @@ Page({
    */
   onLoad: function (options) {
     var that = this;
+    /*
     wx.getStorage({
       key: 'formData',
       success: function (res) {
@@ -20,6 +21,21 @@ Page({
         that.setData({
           text: res.data.text,
           paragh: res.data.paragh
+        });
+      }
+    })
+    */
+    wx.request({
+      url: 'https://api.infoaas.com/data/hzc.json', //仅为示例，并非真实的接口地址
+      data: {},
+      header: {
+        'content-type': 'application/json' // 默认值
+      },
+      success: function (res) {
+        console.log(res.data)
+        that.setData({
+          text: res.data.name,
+          paragh: "任课老师是：" + res.data.teacher + " 2017"
         });
       }
     })
@@ -86,6 +102,12 @@ Page({
         text: text,
         paragh: paragh
       }
+    })
+
+    wx.showToast({
+      title: '成功',
+      icon: 'success',
+      duration: 2000
     })
   }
 })
