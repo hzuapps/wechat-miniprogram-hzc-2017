@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/comp/scroll",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/comp/view",
+    "pages/example/list/list",
+    "pages/example/article/article",
+    "pages/form/form"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#BBDEF8",
+    "navigationBarTitleText": "第一个小程序",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/comp/scroll",
+        "iconPath": "pages/example/images/a.png",
+        "selectedIconPath": "pages/example/images/a.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/comp/view",
+        "iconPath": "pages/example/images/b.png",
+        "selectedIconPath": "pages/example/images/b.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "iconPath": "pages/example/images/c.png",
+        "selectedIconPath": "pages/example/images/c.png",
+        "text": "我"
+      }
+    ]
+  }
+}
