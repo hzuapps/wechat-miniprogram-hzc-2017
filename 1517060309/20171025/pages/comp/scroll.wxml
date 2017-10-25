@@ -1,0 +1,38 @@
+<!--pages/comp/scroll.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">查看详情</view>
+        <view class="page__desc">海贼王</view>
+    </view>
+    <view class="page__bd">
+ 
+
+        <view class="weui-cells__title"></view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">路飞</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/example/arti1/arti1" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">索隆</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/example/arti2/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">山治</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/example/arti3/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">娜美</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/example/luobin/lb" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">罗宾</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator> 
+            <navigator url="/pages/example/qiaoba/qb" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">乔巴</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+        </view>      
+    </view>
+</view>
