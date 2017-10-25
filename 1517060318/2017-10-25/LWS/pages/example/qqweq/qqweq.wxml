@@ -1,0 +1,42 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">阿拉德大陆</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">银色村庄</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">黑暗城</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">赫顿玛尔废墟</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">天帷巨兽</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">北方避难所</view>
+                </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">神之都根特</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">鲁夫特悬空海港</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">斯曼工业基地</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">克洛诺斯岛</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">魔界营地</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

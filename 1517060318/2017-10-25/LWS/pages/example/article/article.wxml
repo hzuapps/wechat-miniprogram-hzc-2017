@@ -1,0 +1,129 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">十二使徒</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第一使徒“宿命者”卡恩</view>
+                    <view class="weui-article__p">拥有至高能力的魔界之王。
+居住在魔界协会广场，在以强者为尊的魔界中，他是当之无愧的第一强者。据说他的体力和力量已经强大到几乎不会被任何物质和手段破坏，“极强”可以说是最适合他的词。虽然他是魔界实力最强的强者，但是除了自己的居住地，他似乎没有统治其他领域的野心。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第二使徒“哭泣之眼”赫尔德</view>
+                    <view class="weui-article__p">拥有两张面孔且面带泪痕者（Crying eyes hilder）
+居于布鲁克林南部的伯乐溪谷，不喜欢在陌生人面前露面。
+她曾目睹一个美丽繁华的世界走向灭亡，也曾目睹至亲至爱的家人死亡。
+据说，她在魔界生活了很长一段岁月，而且她是第一个把自然之力应用到“魔法”上的人。很多年来，为了让魔界恢复昔日的繁华，她一直不懈的努力。实际上，她已经是魔界的掌控者了。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第三使徒“天骄” 依西斯·普雷</view>
+                    <view class="weui-article__p">天空之霸者（Isis-Prey in Blue Sky）
+普雷的故乡，是由一个拥有飞翔能力的种族支配的世界。拥有最强飞翔能力的普雷，为了调查异变的根源，飞向了高空。他在途中发现了转移过来的魔界，并与卡恩发生了激烈的战斗。在普雷和卡恩正斗的天昏地暗时，魔界突然从普雷的故乡脱离，而普雷也和魔界众多的异界生命体一样，变成了无家可归的流浪者，统治着魔界的天空。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第四使徒“征服者”卡西利亚斯</view>
+                    <view class="weui-article__p">常年血染钢刃者（Casllas The Conqueror）
+据说为了追求更强的对手而来到魔界。魔界脱离之后依然穿梭于新的世界寻找着新的对手，是魔界第一的乐天主义者。身体大约是人类的1.5倍大，使用双剑。他的一生就是为了决斗而活，败给他的剑客不计其数，其中便包括魔王塔莫斯。从长期积累而来的战斗技能来看的话或许是最强的存在。卡西利亚斯曾与阿尔伯特一战，阿尔伯特甚至连卡西利亚斯的手指都没碰到就惨败。他曾经挑战过所有使徒，击败了大多数的使徒，只有卡恩战胜了他。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第五使徒“潜行者”希洛克</view>
+                    <view class="weui-article__p">幻化万千者（SIROCO of Intangible）
+在自身领域内，她可以变化为任何物质，据说她在一个善于变换的世界里重塑了身体。 她只有在温暖的地方才可以自由的行动，所以她便把家安置在魔界的地轨中心内。而第七使徒安徒恩同样需要地轨中心内的能源，故而希洛克经常与安徒恩因争夺能量而产生冲突。她是使徒中第一个因异变现象而受害的使徒。被转移到阴冷的悲鸣洞穴之后，感受不到光与温暖的她无比痛苦，以至于最后精神崩溃开始疯狂地攻击一切。当四剑圣与卢克西来到悲鸣洞穴调查异变的时候，希洛克已经完全失去了神智，并在临死之前拼命反复暗示着关于赫尔德的阴谋，可惜却没有人能够明白。[7] 
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第六使徒“黑色瘟疫”狄瑞吉</view>
+                    <view class="weui-article__p">流有邪恶之血者（DIREGIE the disease of darkness）
+一切疾病的根源，在由致命病菌构成的星球里重塑了身体。他拥有将生物的每个细胞化为尘土的恐怖力量，他曾给魔界带来黑死病、流感等致命疾病的变异病毒，被人们称为“黑色瘟疫”，因此遭到了其他使徒的强烈排斥。为了远离其他使徒，他居住在荒凉的北博隆克斯边境。除非遇到无可避免的大事，其他使徒都绝不愿与他发生争执。后来因异变现象，他被赫尔德转移到到阿拉德大陆的小城市诺斯玛尔中。而随着他的到来，那里已经变成了人间炼狱……
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第七使徒“火焰吞噬者” 安徒恩</view>
+                    <view class="weui-article__p">无限身躯者（ANTON flame eater ）
+他拥有堪比一个魔界分区那么大的身躯，行动非常缓慢。他在他原来居住的世界能量溃散之前，用尽一切力量飞向了魔界。他常年居住在魔界的地轨中心内，靠着为数不多的能量生存。当他偶尔进入沉睡时，魔界才会灯火通明。也只有这时候，天界的人们才能看到魔界。天族将这种现象称之为倒立城市的海市蜃楼。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/7.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第八使徒“长脚” 罗特斯</view>
+                    <view class="weui-article__p">能拿数千把武器者（LOTUS long legs）
+长脚罗特斯，从海洋世界来到魔界的使徒，支配着魔界的海洋。他是第二个被转移的使徒，他在冬眠时，莫名其妙的被转移到天帷巨兽背上的神殿中。最后他在天帷巨兽背上占据古老神殿，并用精神控制操控神殿里的那些崇拜天帷巨兽古代遗迹的GBL信徒。最终在冒险家和四剑圣联手下被击杀。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/8.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">现第九使徒“制造者”卢克</view>
+                    <view class="weui-article__p">沉默抚土者（LUKE the Constructor）
+制造者卢克，原本是海伯伦星球的主宰，拥有创造万物和掌控光与暗的力量，但因为转移到魔界，力量全部消失，变成了一个虚弱的老头，曾经的部下也全部失散，如今他创造了寂静城为自己吸收力量。虽然无法发出声音说话，但却极具制造天赋，他可以凭借本能不停地进行制造工作。1000年前，因受“爆龙王”巴卡尔的威胁，卢克建立了寂静城（表面上是受到了赫尔德的指派，实际上是为了召回部下和恢复真身而吸收能量），自此之后，魔界通往天界的道路开启。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/9.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">原第九使徒“爆龙王”巴卡尔</view>
+                    <view class="weui-article__p">吐息火焰者（RexBacar tyrannosaurus）
+“爆龙王”巴卡尔是群龙之王，刚进入魔界时，他曾凭强大而神秘的力量被封为第九使徒。发现赫尔德阴谋的他不愿意屈从在赫尔德铁腕之下，便开始有计划地制造混乱以打乱赫尔德的部署。赫尔德震怒之下使用诡计将巴卡尔从使徒中除名，并将制造者卢克封为第九使徒，同时集结其他八名使徒之力和巴卡尔展开了一场激烈的战斗，这场战斗就是史上记载的“龙之战争”。战败的巴卡尔利用寂静城从魔界逃离到新的世界——天界。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/10.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第十使徒“混沌之神”奥兹玛</view>
+                    <view class="weui-article__p">死而复生者（Ozma chaos）
+混沌之鬼神·奥兹玛曾经是辅佐佩罗斯帝国名将——卡赞的帝国最强法师。亦是卡赞的挚友。听闻卡赞的反叛，便接受了帝国的命令前往镇压。却在交战中与卡赞一起被突然出现的帝国军队逮捕。在牢狱中，了解了这一切都是惊恐于他们两人权力扩大的帝国皇帝的阴谋。失去了家人与恋人莉兹的奥兹玛接受了死神的提案，以自己的灵魂为代价换来了灭亡世界之力。之后，因为奥兹玛所施加的“血之诅咒”，人与人之间的信任消亡，世界陷入一片混沌。在这样的混乱中，出现了拥有能够分辨伪装者能力的人。他们击退了伪装者，成为了圣职者的始祖。最后，奥兹玛在“黑色圣战”中为圣职者所击败，被封印至异空间中。现在，随着阿拉德大陆出现了转移的时空裂缝，他又再窥伺着重返现世的机会。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/11.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第十一使徒“圣者”米歇尔</view>
+                    <view class="weui-article__p">拥有两张面孔且面带泪痕者（Crying eyes hilder）
+知晓真相者（Michael the sage）
+引领暗黑圣战走向胜利的“五圣者”之一。
+最初得到启示的圣者。
+圣职者的始祖。
+传说他不受时间的影响，一直保持着少年的姿态。
+领导暗黑圣战走向胜利后，便消失在和平的世界中。
+他也是圣职者武术——神格拳(神击)的创始者。
+根据圣职者二次觉醒剧情，米歇尔已死于冒险家之手。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/12.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                
+            </view>
+        </view>
+    </view>
+</view>
