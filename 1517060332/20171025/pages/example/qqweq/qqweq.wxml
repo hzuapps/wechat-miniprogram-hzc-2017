@@ -1,0 +1,36 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="weui-article__h3">1996年NBA选秀（职业生涯开始）</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">最初的赛季（1996-1999）</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">三连冠时期（1999-2002）</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">短暂的低潮（2002-2004）</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">失望季后赛（2004-2007）</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">MVP赛季（2007-2008）</view>
+                </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">蝉联总冠军（2008-2010）</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">追逐第六冠（2010-2013）</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">最终的赛季（2013-2016）</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
