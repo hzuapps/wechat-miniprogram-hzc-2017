@@ -1,0 +1,29 @@
+<!--index.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">王者荣耀</view>
+        <view class="page__desc">King of Glory</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">小介绍</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">王者荣耀介绍</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/example/icons/icons" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">邱博洪</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/example/list/list" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">文本</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <view class="weui-cells__title">组件测试</view>
+            <navigator url="/pages/example/grid/grid" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">第三</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+    </view>
+</view>
