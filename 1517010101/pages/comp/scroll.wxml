@@ -2,7 +2,7 @@
 <scroll-view class="page" bindtouchend='onEnd'>
     <view class="page__hd">
         <view class="page__title">Panel</view>
-        <view class="page__desc">├ц░х</view>
+        <view class="page__desc">щЭвцЭ┐</view>
     </view>
     <view class="page__bd">
         <view class="weui-panel weui-panel_access">
@@ -21,7 +21,7 @@
         </view>
         <view class='weui-loadmore' wx:if="{{isEnd}}">
           <view class='weui-loading'></view>
-          <view class='weui-loadmore__tips'>╒¤╘┌╝╙╘╪бнбн</view>
+          <view class='weui-loadmore__tips'>цнгхЬихКаш╜╜тАжтАж</view>
         </view>
     </view>
 </scroll-view>
