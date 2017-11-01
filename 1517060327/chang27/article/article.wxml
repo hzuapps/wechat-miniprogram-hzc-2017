@@ -1,0 +1,30 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">水果简介</view>
+                    <view class="weui-article__p">
+                      水果是可以直接进食的果实，指多汁且有甜味的植物果实，不但含有丰富的营养且能够帮助消化。水果是对部分可以食用的植物果实和种子的统称。水果有降血压、减缓衰老、减肥瘦身、皮肤保养、明目、抗癌、降低胆固醇、补充维生素等保健作用。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/7.jpg" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                      水果 是对部分可以食用的植物果实或其他器官的统称。
+《隋遗录》：“有郎将自 瓜州宣事回，进合欢水果一器。”清百一居士 《壶天录》卷下：“巷有 王姓名 永者……初卖水果，继为茶社担水。”峻青《秋色赋》：“胶东，这个不愧为水果之乡的半岛上，今年的水果特别丰收。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
