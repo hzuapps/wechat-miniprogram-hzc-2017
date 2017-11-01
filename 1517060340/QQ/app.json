@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/article/article",
+    "pages/example/qqweq/qqweq",
+    "pages/fm/fm"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00e5ee",
+    "navigationBarTitleText": "郑镇民",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "backgroundColor": "#00e5ee",
+   
+    "list": [
+      {
+        "selectedIconPath": "pages/image/14.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/14.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "text": "职业"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/14.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "text": "提交"
+      }
+    ]
+  }
+}

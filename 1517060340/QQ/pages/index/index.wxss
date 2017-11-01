@@ -1,0 +1,9 @@
+/**index.wxss**/
+.page__title{
+  display: flex;
+  justify-content: center;
+}
+.page__desc{
+  display: flex;
+  justify-content: center;
+}

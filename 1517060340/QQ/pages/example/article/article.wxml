@@ -1,0 +1,138 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">曹操：战士、吸血</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">曹操：战士、吸血</view>
+                    <view class="weui-article__p">
+曹操作为三国季首发英雄，曹操作为一代帝王，在历史上极富盛名，被成为三国枭雄。在王者荣耀中被赋予了强大的吸血能力，独特的大招能在瞬间吸血，不俗的攻击和防御，往往让他成为后期的王者，无论是对线还是团战，曹操相当不错。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">夏侯惇：战士、吸血</view>
+                    <view class="weui-article__p">夏侯惇在历史上是曹操的兄弟，曹魏开过功臣，深受曹操的重用。在王者荣耀中夏侯惇竟然和曹操相同，都是带有吸血效果的战士。但是技能效果十分独特，全部技能都带有强化效果，不是增加伤害就是吸血，大招竟然是增加击飞高度和控制时长，很让人匪夷所思。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">诸葛亮：法师、团控、先手</view>
+                    <view class="weui-article__p">诸葛亮是三国时期蜀国的政治军事家，被后人敬奉为忠臣和智者的化身。在王者荣耀中赋予了曹操强大的团控能力，诸葛亮大家不陌生，在封测就已经出现的英雄，作为冒险模式的BOSS与玩家见面，2技能和大招都带有控制效果，被动能增加友军抗性。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">周瑜：法师、远程、消耗</view>
+                    <view class="weui-article__p">周瑜为东汉末年名将，征战沙场无数，外表帅气，还是痴情的汉子。在王者荣耀中他是一名远程消耗法师，技能效果跟LOL的火男相同，使用火焰来控制敌人。被动是对敌人造成引燃标记，1技能释放火焰进行伤害和眩晕，2技能陨石坠落，大招释放火柱。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">一骑当千
+关羽：</view>
+                    <view class="weui-article__p">出装分析
+出装思路：对于关羽来说速度即是力量，鞋子是首选，关羽是比较怕控制的英雄，抵抗之靴能够增加自身抗性，再配合二技能净化，解控能力不亚于庄周。 
+第二件出爆裂之甲，除了堆血量还有物理攻击加成，受到伤害时能提高最多10%移速和伤害，非常不错。 
+第三件不祥征兆，能增加关羽大量的物理防御和生命值，受到敌人攻击时也能很好的限制敌人输出，让敌人难以跟上关羽的步伐。 
+接着是核心输出装备破甲弓，顺风的话可以在第三件出，当然这里也可以选择暗影战斧替换，两件装备都提供物理输出、穿透和冷却缩减，建议优先选择破甲弓，能够最大限度强化关羽的输出。 
+接下来就是肉装撑血了，常用防御两件套魔女斗篷和反伤甲，也可以考虑复活甲增加容错率，或者凶一点出破军一刀砍死一个。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">千金重弩
+孙尚香</view>
+                    <view class="weui-article__p">出装分析
+出装思路：孙尚香的伤害主要来源于一技能，因此在出装方面以暴击伤害为主攻速为辅，小打野刀出门，第一件追击刀锋，帮助孙尚香在前期快速清野发育；第二件鞋子，抵抗或影忍，攻速鞋不推荐。第3~4件出无尽+泣血，大幅度提升伤害和续航能力；第五件宗师之力，孙尚香的核心装备之一，配合一技能效果，两炮送对手回高地；最后一件可以选择破甲弓，大后期打野刀可以换成复活甲。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">仁德义枪
+刘备</view>
+                    <view class="weui-article__p">出装思路：打野刀出门，第一件追击刀锋叠攻速提升打野速度；第二件先出一把小吸血刀增加续航能力；第三件鞋子，影刃或者抵抗，看对面阵容；第四件暗影战斧，战士的核心装备；这四件出来之后刘备装备就基本成型了。 
+接下来几件装备就要根据局势来选择了，首先升级小吸血刀，升级成什么这里就有讲究了：
+●如果对方是一些无恢复型坦克又比较肉，比如张飞、东皇太一这类，那这把小吸血刀就可以升级成末世；
+●如果对方都是脆皮阵容，就升级成吸血刀来保证自身的吸血能力；
+●当然如果有貂蝉、蔡文姬、程咬金、曹操这类吸血恢复快的英雄，则要换成制裁之刃。 
+最后两件根据队友打团的积极度来选择，一般推荐出半肉，冰痕+魔女，因为野团队友意识一般都比较差，往往拖到大后期，所以选择半肉出装可以更好的保护自己输出。当然如何大顺风，或者队友配合意识强的话，可以凶一点，出破甲弓+破军，来秒对手后排。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/7.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">逆流之时
+孙膑</view>
+                    <view class="weui-article__p">中单出装思路：中单孙膑的出装思路和大部分法师差不多，前期核心装备面具+鞋子+回响，鞋子可以选择冷静减CD，也可以选择疾步增加机动性，丢个一技能就跑...丢个一技能就跑...相当恶心！ 
+接下来帽子+冰杖，大幅度增加伤害和控制能力，哪个先出看阵容，己方控制不足或者对面跑得快，就先出冰杖，反之先出帽子。 
+最后补上法穿杖，一技能伤害就逆天了，这里简单说下重点孙膑对线思路，前期尽量以发育为主，中单孙膑和辅助孙膑不一样，前期不能瞎逛，因为孙膑清线慢前期瞎跑的话，很容易经济跟不上后期就废了，所以一般是被动地去支援队友。 
+打团时候因为孙膑爆发不足，所以在敌方突进过来时候尽量开启技能撤退牵制，在团战开启之前利用手长的优势消耗对手，并利用13技能限制敌方的走位和进攻。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/8.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">傀儡师
+庞统</view>
+                    <view class="weui-article__p">出装思路：前期暗影战斧自然是刺客的首选装备了，要输出有输出要肉有肉还有减CD。刺客的主要任务是gank，鞋子自然是必要的，庞统主要靠技能秀全场，鞋子首选冷静之靴减CD效果好。接着出冰痕之握，庞统打一套要释放多个技能，所以需要点蓝量，并且冰痕之握还提供血量护甲和减CD，是不错的选择。在中后期护甲和血量都差不多了，接下来就是暴力点的装备了，破甲弓和破军，残暴到不行，熟练的操作一套带走庞统本身也不会受到伤害。暴力装都比较脆，来件复活甲是非常好的选择。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/9.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">原第九使徒“爆龙王”巴卡尔</view>
+                    <view class="weui-article__p">吐息火焰者（RexBacar tyrannosaurus）
+“爆龙王”巴卡尔是群龙之王，刚进入魔界时，他曾凭强大而神秘的力量被封为第九使徒。发现赫尔德阴谋的他不愿意屈从在赫尔德铁腕之下，便开始有计划地制造混乱以打乱赫尔德的部署。赫尔德震怒之下使用诡计将巴卡尔从使徒中除名，并将制造者卢克封为第九使徒，同时集结其他八名使徒之力和巴卡尔展开了一场激烈的战斗，这场战斗就是史上记载的“龙之战争”。战败的巴卡尔利用寂静城从魔界逃离到新的世界——天界。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/10.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第十使徒“混沌之神”奥兹玛</view>
+                    <view class="weui-article__p">死而复生者（Ozma chaos）
+混沌之鬼神·奥兹玛曾经是辅佐佩罗斯帝国名将——卡赞的帝国最强法师。亦是卡赞的挚友。听闻卡赞的反叛，便接受了帝国的命令前往镇压。却在交战中与卡赞一起被突然出现的帝国军队逮捕。在牢狱中，了解了这一切都是惊恐于他们两人权力扩大的帝国皇帝的阴谋。失去了家人与恋人莉兹的奥兹玛接受了死神的提案，以自己的灵魂为代价换来了灭亡世界之力。之后，因为奥兹玛所施加的“血之诅咒”，人与人之间的信任消亡，世界陷入一片混沌。在这样的混乱中，出现了拥有能够分辨伪装者能力的人。他们击退了伪装者，成为了圣职者的始祖。最后，奥兹玛在“黑色圣战”中为圣职者所击败，被封印至异空间中。现在，随着阿拉德大陆出现了转移的时空裂缝，他又再窥伺着重返现世的机会。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/11.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">第十一使徒“圣者”米歇尔</view>
+                    <view class="weui-article__p">拥有两张面孔且面带泪痕者（Crying eyes hilder）
+知晓真相者（Michael the sage）
+引领暗黑圣战走向胜利的“五圣者”之一。
+最初得到启示的圣者。
+圣职者的始祖。
+传说他不受时间的影响，一直保持着少年的姿态。
+领导暗黑圣战走向胜利后，便消失在和平的世界中。
+他也是圣职者武术——神格拳(神击)的创始者。
+根据圣职者二次觉醒剧情，米歇尔已死于冒险家之手。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/12.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                
+            </view>
+        </view>
+    </view>
+</view>
