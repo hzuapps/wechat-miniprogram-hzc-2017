@@ -1,0 +1,42 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">符文之地</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">艾欧尼亚</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">诺克萨斯</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">德玛西亚</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">佛雷尔卓德</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">祖安</view>
+                </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">暗影岛</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">巨神峰</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">恕瑞玛</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">战争学院</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">班德尔城</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
