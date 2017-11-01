@@ -1,0 +1,31 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">布加迪</view>
+                    <view class="weui-article__p">
+                   BUGATTI，这个创立至今已经有百余年历史的法国跑车品牌。提起奢侈品，大家肯定会联想到来自法国的各种奢侈品牌。而汽车中的奢侈品--布加迪(Bugatti)无疑是其中法国奢侈品牌中重要的一员。早期的布加迪品牌将艺术与技术相融合，并在赛场上战绩辉煌，但在第二次世界大战后渐渐衰落并几经转手，1998年大众集团收购并复兴了布加迪品牌，将其确立为一个独立运营的法国汽车品牌。现在布加迪的总部依然设立在法国的莫尔塞姆。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/bujiadi.jpg" mode="aspectFit" style="height: 300px" />
+                        <image class="weui-article__img" src="../images/bujiadi.jpg" mode="aspectFit" style="height: 300px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                      布加迪是目前世界上最快的量产车，也是著名的汽车品牌，1909年意大利人埃托尔·布加迪（Ettore Bugatti）在法国创建布加迪公司，专门生产运动跑车和高级豪华轿车。  
+
+这家车厂是以精巧的造车技术出名，其高级汽车的制造更是一流。布加迪是汽车大奖赛（F1的前身）的常胜军，它们是第一届摩纳哥大奖赛的冠军；布加迪也是利曼24小时耐久赛的常胜军，Jean-Pierre Wimille为其二度夺下冠军而Robert Benoist和Pierre Veyron（日后的Veyron车款就是为了纪念他）也各为布加迪拿下一冠。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

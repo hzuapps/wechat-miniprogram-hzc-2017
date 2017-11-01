@@ -1,0 +1,38 @@
+<!--pages/comp/scroll.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">查看详情</view>
+        <view class="page__desc">跑车</view>
+    </view>
+    <view class="page__bd">
+ 
+
+        <view class="weui-cells__title"></view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">布加迪</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/example/arti1/arti1" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">兰博基尼</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/example/arti2/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">法拉利</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/example/arti3/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">林肯</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/example/Mercedes-Benz/lb" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">奔驰</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator> 
+            <navigator url="/pages/example/Maserati/qb" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">玛莎拉蒂</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+        </view>      
+    </view>
+</view>

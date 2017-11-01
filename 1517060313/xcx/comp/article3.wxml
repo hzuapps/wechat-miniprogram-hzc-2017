@@ -1,0 +1,36 @@
+<!--pages/comp/article3.wxml-->
+
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">中国计划未来继续扩大在南海军力部署？</view>
+        <view class="page__desc">文章</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+      
+            <view class="weui-article__section">
+     
+       <view class="weui-article__p">
+                        <image class="weui-article__img" src="../../images/4.jpg" mode="aspectFit" style="height: 180px" />
+                
+                    <view class="weui-article__p">
+                      新华社海口10月23日电（记者喻菲 刘邓）寂静的海底，黄晖只能听见自己呼气时氧气瓶冒出串串气泡发出的咕噜咕噜声，视线范围仅有数米。感受着渺小与孤独，她将一株株手掌大小的珊瑚种在海底，渴望长出一片“森林”。
+                      </view>
+                    <view class="weui-article__p">
+如果她的梦想能够实现，这片“森林”应姹紫嫣红，五彩斑斓的鱼儿穿梭其中
+                      </view>
+                     <view class="weui-article__p">
+作为中国科学院南海海洋研究所珊瑚生物学与珊瑚礁生态学科组组长的黄晖已从事珊瑚研究约20年。她正带领团队在中国南海建立大范围的珊瑚底播试验区和示范区。
+                      </view>
+                      <view class="weui-article__p">
+珊瑚被誉为海底热带雨林或海洋生命发动机。珊瑚礁的覆盖面积不到海底的千分之二，却为近30%的海洋物种提供生活环境，这使得珊瑚礁成为地球上最多样化的生态系统之一。全球有5亿人直接依赖珊瑚礁生态系统生活，每年带来数十亿美元旅游和渔业产值。中国南海拥有全球2.57%的珊瑚礁资源，位居世界第八。
+                      </view>
+                     
+                    </view>
+                  
+                     
+ 
+  </view>   
+   </view>   
+    </view>    
+    </view>   

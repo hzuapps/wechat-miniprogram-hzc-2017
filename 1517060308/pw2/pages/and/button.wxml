@@ -1,0 +1,28 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">Alcohol</view>
+        <view class="page__desc">杜康、欢伯、杯中物、金波、秬鬯、白堕、冻醪、壶觞、壶中物、酌、酤、醑、醍醐、黄封、清酌、昔酒、缥酒、青州从事、平原督邮、曲生、曲秀才、曲道士、曲居士、曲蘖、春、茅柴、香蚁、浮蚁、绿蚁、碧蚁、天禄、椒浆、忘忧物、扫愁帚、钓诗钩、狂药、酒兵、般若汤、清圣、浊贤。</view>
+    </view>
+    <view class="page__bd page__bd_spacing">
+        <button class="weui-btn" type="primary"> Alcohol</button>
+        <button class="weui-btn" type="primary" disabled="true">Alcohol</button>
+
+        <button class="weui-btn" type="default">Alcohol</button>
+        <button class="weui-btn" type="default" disabled="true">Alcohol</button>
+
+        <button class="weui-btn" type="warn">Alcohol</button>
+        <button class="weui-btn" type="warn" disabled="true">Alcohol</button>
+
+        <view class="button-sp-area">
+            <button class="weui-btn" type="primary" plain="true">Alcohol</button>
+            <button class="weui-btn" type="primary" disabled="true" plain="true">Alcohol</button>
+
+            <button class="weui-btn" type="default" plain="true">Alcohol</button>
+            <button class="weui-btn" type="default" disabled="true" plain="true">Alcohol</button>
+
+            <button class="weui-btn mini-btn" type="primary" size="mini">Alcohol</button>
+            <button class="weui-btn mini-btn" type="default" size="mini">Alcohol</button>
+            <button class="weui-btn mini-btn" type="warn" size="mini">Alcohol</button>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,30 @@
+<!--index.wxml-->
+
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title"></view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title"></view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/fm/fm" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">新闻</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">GO</view>
+            </navigator>
+            </view>
+            <view class="weui-cells__title">背景介绍</view>
+            <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/qqweq/qqweq" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">符文之地</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">GO</view>
+            </navigator>
+        </view>
+        <view class="weui-cells__title">英雄介绍</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">英雄简介</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">GO</view>
+            </navigator>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,31 @@
+<!--pages/comp/scroll.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">新闻详情</view>
+        <view class="page__desc">列表</view>
+    </view>
+    <view class="page__bd">
+ 
+
+        <view class="weui-cells__title"></view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/comp/article1" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">新华社评论员：深刻把握“分两步走”的新目标</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/comp/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">中国计划未来继续扩大在南海军力部署？</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/comp/article2" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">C919圆国人“大飞机梦”：打造航空产业发展集群</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            <navigator url="/pages/comp/article3" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">海底“植树造林”中国科学家在南海种珊瑚</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">查看详情</view>
+            </navigator>
+            
+        </view>      
+    </view>
+</view>

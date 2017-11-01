@@ -1,0 +1,31 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">索隆</view>
+                    <view class="weui-article__p">
+                     罗罗诺亚·索隆(Roronoa Zoro)日本漫画《海贼王》中的男二号，草帽一伙中的战斗员，是悬赏过亿武艺高强的三刀流剑士，二年前超新星11人之一，能够自由操纵三把刀战斗。爱喝酒，爱睡觉，讲义气，海贼第一超级大路痴。为了小时候与挚友的约定而踏上了前往世界第一剑士的道路，随后成为主角蒙奇·D·路飞的第一个伙伴。在初次败给世界第一剑士"鹰眼米霍克"后向路飞发誓永不再败，并且更加努力的锻炼自己。两年后的他成功与伙伴们汇合，并且为了实现自己的梦想，奔赴强者如云的新世界。
+                    </view>
+                    <view class="weui-article__p">
+                       
+                        <image class="weui-article__img" src="../images/suolong.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                      在成为世界第一剑士的路途上，索隆以捕捉通缉犯赚取奖金为生（因为路痴迷路了，回不去，所以当海贼猎人赚取生活费），海贼猎人索隆”（海贼狩りのゾロ）的称号。这段期间，索隆曾被巴洛克工作社的原Mr.7邀请加入，不过他要求只要由他取代克洛克达尔的社长座位就愿意加入，这造成巴洛克工作社的反对，杀死了Mr.7。有一次，为了支付铁匠修剑的钱，而去打倒悬赏1千万贝里的山鲸迪克，同时约瑟夫和强尼对他甘拜下风，决定跟随索隆。
+
+后来为了拯救女孩莉嘉而将海军的蒙卡大佐的儿子贝鲁梅伯饲养的狼杀死，因此被海军拘捕，绑在海军基地的刑场上，不给食物和水。原先贝鲁梅伯答应只要索隆能活足一个月，就会释放他。但这是贝鲁梅伯的戏言，其实打算要公开处决他。路飞知道后决定帮助索隆，并让索隆成为他的伙伴。起初索隆拒绝路飞，说不要成为一位海贼，但在克比的口中得知贝鲁梅伯要处决他后，为了实现与古伊娜的约定，决定成为路飞的伙伴，但誓言如果路飞没有成为海贼王或阻碍了他，将要路飞在他面前切腹谢罪。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

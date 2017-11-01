@@ -1,0 +1,30 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">玛莎拉蒂</view>
+                    <view class="weui-article__p">
+                     玛莎拉蒂（Maserati）是一家意大利豪华汽车制造商，1914年12月1日成立于博洛尼亚（Bologna），公司总部现设于摩德纳（Modena），品牌的标志为一支三叉戟。1993年菲亚特（Fiat S.p.A.）收购玛莎拉蒂，使品牌得以保留。
+玛莎拉蒂曾经是法拉利（一家菲亚特拥有大部分股权的公司）的一部分，现为菲亚特克莱斯勒汽车直接拥有。而今的玛莎拉蒂全新轿跑系列是意大利顶尖轿跑车制作技术的体现，也是意大利设计美学以及优质工匠设计思维的完美结合。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/mashaladi.jpg" mode="aspectFit" style="height: 180px" />
+                       
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                      “玛莎拉蒂”这个名字来源于意大利王国时期的铁路工人鲁道夫·玛莎拉蒂、卡罗莱纳·罗西和他们的七个孩子。鲁道夫是个具有创新天赋与能力的人：对速度的执着与热爱在玛莎拉蒂兄弟之间一脉相承。新世纪的黎明破晓时，最小的儿子埃托于1894年出生，让这个家庭完整了。而生于1881年的大儿子卡罗已经开启了自己的一番事业，而他们的七个孩子都参与促进日后玛莎拉蒂这个世界著名跑车品牌的建设与发展[2]  。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

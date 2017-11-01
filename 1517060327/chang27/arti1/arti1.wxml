@@ -1,0 +1,32 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">水果简介</view>
+                    <view class="weui-article__p">
+                       水果是可以直接进食的果实，指多汁且有甜味的植物果实，不但含有丰富的营养且能够帮助消化。水果是对部分可以食用的植物果实和种子的统称。水果有降血压、减缓衰老、减肥瘦身、皮肤保养、明目、抗癌、降低胆固醇、补充维生素等保健作用。。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/8.jpg" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                      水果 是对部分可以食用的植物果实或其他器官的统称。
+《隋遗录》：“有郎将自 瓜州宣事回，进合欢水果一器。”清百一居士 《壶天录》卷下：“巷有 王姓名 永者……初卖水果，继为茶社担水。”峻青《秋色赋》：“胶东，这个不愧为水果之乡的半岛上，今年的水果特别丰收。软骨和膜构成。 眼睑多可动，两眼之间隔以薄层垂直的眶间隔，眶後骨与鳞骨形成的骨杆上有一个顳孔。上腭能相对于颅的其他部分而运动，有方骨，口可大张便于吞食猎物。
+
+多数蜥蜴具四足，後肢肌肉有力，能迅速奔跑及迅速改变跑动方向，Cnemidophorus属时速达24公里(15哩)。有几科蜥蜴身体延长，四肢缩短，乃至无肢体。壁虎、 鬣蜥属(Uta)及Acanthodactylus属的趾上多缘饰以增加其表面积并防止陷入沙中，壁虎能在垂直的玻璃板上爬行。避役每足5趾，藉皮肤构成的蹼分为内外两组，在後肢外侧3趾、内侧2趾各成一组，前肢反之，适雄体具成对的交接器官──半阴茎。 王蜥能跑过短距离的水面。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

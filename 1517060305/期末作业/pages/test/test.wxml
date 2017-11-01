@@ -1,0 +1,26 @@
+<!--index.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">剑灵官网</view>
+        <view class="page__desc">壁纸</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">手机壁纸</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/index/index" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">动态</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/index1/index1" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">秦义绝</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/index2/index2" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">article例子</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+    </view>
+</view>

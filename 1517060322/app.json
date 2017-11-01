@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/comp/scroll",
+    "pages/comp/view",
+    "pages/comp/form",
+    "pages/form/form",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/example/list/list",
+    "pages/example/article/article"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#BBDEF8",
+    "navigationBarTitleText": "第一个小程序",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/comp/scroll",
+        "iconPath": "pages/example/images/explore64.png",
+        "selectedIconPath": "pages/example/images/explore64_on.png",
+        "text": "与会人员"
+      },
+      {
+        "pagePath": "pages/example/article/article",
+        "iconPath": "pages/example/images/user64.png",
+        "selectedIconPath": "pages/example/images/user64_on.png",
+        "text": "关于十九大"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "pages/example/images/conf64.png",
+        "selectedIconPath": "pages/example/images/conf64_on.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "iconPath": "pages/example/images/user64.png",
+        "selectedIconPath": "pages/example/images/user64_on.png",
+        "text": "我"
+      }
+    ]
+  }
+}

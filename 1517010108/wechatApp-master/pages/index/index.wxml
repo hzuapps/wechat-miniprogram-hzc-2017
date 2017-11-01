@@ -1,0 +1,61 @@
+
+ <scroll-view  class='talk'  scroll-y="true" scroll-top="{{scrollTop}}">
+    <!--对话框-->
+    <view wx:for="{{speak}}" class="people" >
+        <view  class='other'  wx:if="{{item.name=='other'}}" >
+            <view   wx:if="{{item.model=='ok'}}" >
+                <view>
+                    <image class='headimg_other'   src="{{head_other}}"></image>
+                    <view class='speak_other' bindtap="play" data-play="{{item.say}}">
+                        主人，我已经收到您的指令。您需要以下设置吗？
+                        <picker bindchange="bindNoticeChange" value="{{prior_notice_index}}" range="{{prior_notice}}">
+                            提前：<view class="picker">{{prior_notice[prior_notice_index]}}<image src="{{select}}" class='select'></image></view>
+                        </picker>
+                        <picker bindchange="bindRepeatChange" value="{{Repeat_notice_index}}" range="{{Repeat_notice}}">
+                            重复：<view class="picker">{{Repeat_notice[Repeat_notice_index]}}<image src="{{select}}" class='select'></image></view>
+                        </picker>
+                        <form  bindsubmit="formSubmit" report-submit="true">
+                            <button formType="submit"  class="model" >{{clockSave}}</button>
+                         </form>
+                    </view>
+                </view>
+                
+            </view>
+            <view   wx:if="{{item.model==''}}" >
+                <image class='headimg_other'   src="{{head_other}}"></image>
+                 <text class='speak_other' bindtap="play" data-play="{{item.say}}">{{item.say}}</text>
+            </view>
+             <view   wx:if="{{item.model=='alert'}}" >
+                <image class='headimg_other'   src="{{head_other}}"></image>
+                 <view class='speak_other' bindtap="play" data-play="{{item.say}}" style="width:400rpx; padding-left:40rpx">
+                       <view  style='overflow:hidden'> 
+                            <image src="{{alert}}" style="width:100rpx; height:100rpx; float:left"></image>   
+                            <view style="float:left;  padding-left:20rpx; margin-top:20rpx">
+                                    <view>{{item.say.remind_time}}</view>
+                                    <view>{{item.say.remind_date}}</view>
+                            </view>
+                       </view>
+                       <view ><view>{{item.say.remind_content}}</view></view>
+                 </view>
+            </view>
+        </view>
+
+        <view class='me' wx:if="{{item.name=='me'}}">
+            <image class='headimg_me'   src="{{userInfo.avatarUrl}}"></image>
+            <text class='speak_me' bindtap="play" data-play="{{item.say}}"  data-path="{{item.path}}">{{item.say}}</text>
+            <view style='clear:both'></view>
+        </view>
+    </view>
+  </scroll-view>
+  <!--发送消息-->
+
+    <view class='send'>
+       <view class=' iconfont {{sendicon}}  icon' bindtap="changeico" ></view>
+       <view class='cotent' >
+            <input wx:if="{{ipt}}" class="ipt"  bindchange='speakchange' value="{{clear}}"/>
+            <button type="default"   bindtouchstart="audiostart"  bindtouchend="audioend" class="btn" wx:if="{{!ipt}}" > 按住说话 </button>
+       </view>
+       <view class="fasong">
+         <button type="default" wx:if="{{ipt}}"  bindtap="dosend" class="fasongbtn">发送</button>      
+       </view>
+    </view>

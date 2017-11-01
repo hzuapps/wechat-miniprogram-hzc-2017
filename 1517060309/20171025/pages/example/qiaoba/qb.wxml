@@ -1,0 +1,35 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">乔巴</view>
+                    <view class="weui-article__p">
+                     托尼托尼·乔巴是日本人气漫画《海贼王》中的人物。乔巴是草帽海贼团的船医，吃了人人果实的驯鹿能力者，人人驯鹿，可用蓝波球进行八段身体变形。
+
+托尼托尼·乔巴是草帽海贼团的第五位伙伴，职位是船医。原为磁鼓岛库蕾哈医生最宠爱的驯鹿兼医疗助手。乔巴的恩人是"庸医"希鲁鲁克医生，他身为野生驯鹿时本来没有名字，"乔巴"也是由希鲁鲁克给他命名的，意思是他有一对连树木都可以轻松砍倒的角。
+
+乔巴的特征是蓝色的鼻子和一顶画有"X"标记的粉红色帽子。本身很怕热，所以喜欢的岛屿是春天的冬岛。是草帽海贼团年龄最小的成员。人兽型的姿态下，则是伙伴中身材最矮小的成员。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/qiaoba.jpg" mode="aspectFit" style="height: 180px" />
+                       
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                      乔巴是动物系人人果实驯鹿能力者，拥有三段变形：人型态、人兽型态及兽型态。后来乔巴花了五年时间，研究出了能改变恶魔果实形态变化的蓝波球，从而增加了四种变形。
+
+蓝波球，一种可以扰乱动物系恶魔果实的变形波长的药物，由乔巴研究出来，不过效力只有三分钟。可以额外产生七个变形阶段。乔巴服用后可以暂时具有重量强化、跳跃强化、毛皮强化、腕力强化、头脑强化、角强化、脚力强化等能力。但是此药物是种剧药，若在六小时服用第二颗时，则无法控制变形波长，服用第三颗时，会失去意识，恶魔果实会开始暴走，会变成一个巨型“怪物”。虽然拥有强大无比的破坏力，但因为无法控制力量，生命力会急速下降，若不赶紧施打麻药或将能力者推入海中（用海楼石也可以）使恶魔果实无力化或停止他的行动，将会有生命的危险。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

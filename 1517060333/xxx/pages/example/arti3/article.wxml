@@ -1,0 +1,35 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">林肯</view>
+                    <view class="weui-article__p">
+                       美国著名汽车企业福特公司旗下的一个豪华车品牌，创立于1917年，创始人为亨利·利兰。其品牌名称是以美国总统亚伯拉罕·林肯的名字命名。自1939年美国总统富兰克林·罗斯福以来，由于林肯车杰出的性能、典雅的造型和无与伦比的舒适一直被白宫选为总统专车。它最"出名"的一款车是肯尼迪总统乘用的检阅车。林肯品牌著名的产品有:MKC、MKZ、"大陆"(Continental)、"马克八世(MarkⅧ)、"城市"(TownCar)和"领航员" (Navigator)等在中国使用的林肯轿车多为"城市"系列。
+
+
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/linken.jpg" mode="aspectFit" style="height: 180px" />
+                        
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                      952年林肯车又恢复到比较保守的式样。当年福特的第一台顶置气门、v8发动机和美国的第一台球关节前悬架初次亮相。虽然只是稍做准备，林肯车还是在1952-1954年的生产车级别的泛美卡略拉车赛中连续夺魁。
+
+林肯公司还创下了生产记录，1956年它生产了50，322辆车，这些车子的外形是在xl一500和800型概念车的基础上重新设计的。另外还推出了新的大陆·马克bcontinentalmark b)型车，但它的利润并没有相应的有所增加，而经过改头换面的1957年型则更是毛病不少。
+
+1958一1960年型的林肯车的整体车身结构，还是为以后的车型奠定了基础。1961年，一辆干净利索、座距紧凑、使人认为是雷鸟(thunderbird)的汽车成了新的林肯车，由于所有的林肯车都已成为"林肯大陆"，所以一个单独的大陆牌车型就没有理由存在了。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

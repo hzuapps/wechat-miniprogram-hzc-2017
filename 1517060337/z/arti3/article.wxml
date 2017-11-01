@@ -1,0 +1,33 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">蟑螂</view>
+                    <view class="weui-article__p">
+                       蟑螂，泛指属于“蜚蠊目”（学名：Blattodea）的昆虫，已被发现大约有4000多种，除了其中大约有数十种会入侵人类家居，又有数种被人类饲养为宠物及作为宠物的粮食外，绝大部份品种只能在野外山涧树林或昆虫博物馆中见到。家居最常见的蟑螂，大的有身长约5.0厘米（1.2英寸）美洲蟑螂、澳洲蟑螂及短翅的斑蠊；小的有体长约1.5厘米（0.59英寸）的德国蟑螂、日本姬蠊及亚洲蟑螂，热带地区的蟑螂一般比较巨大。家居蟑螂普遍夜行及畏光，野外蟑螂因品种而异，趋光性有正亦有负。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../../../images/3.jpg" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../../../images/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                       【蟑螂分类】昆虫纲（Insecta）、蜚蠊目（Blattaria）。有时特指蜚蠊科（Blattidae）
+
+【蟑螂特征】体扁平，黑褐色，能活动。触角长丝状，复眼发达。翅平，覆盖于腹部背面；有的种类无翅。不善飞，能疾走。不完全变态。产卵于卵鞘内。约有6000种（一说2250多种），有美洲蟑螂，个体最大，常作为宠物。
+
+【蟑螂追溯】与其他昆虫源起于泥盆纪，为腐食动物喜昼伏夜出，居住在洞穴内。经得起酷热及严寒的考验，至今分布相当广泛。蟑螂是这个星球上最古老的昆虫之一，曾与恐龙生活在同一时代。根据化石证据显示，原始蟑螂约在4亿年前的志留纪出现于地球上。发现的蟑螂的化石或者是从煤炭和琥珀中发现的蟑螂，与你家橱柜中的并没有多大的差别。亿万年来它的外貌并没什么大的变化，但生命力和适应力却越来越顽强，一直繁衍至今，广泛分布在世界各个角落。值得一提的是，一只被摘头的蟑螂可以存活9天，9天后死亡的原因则是过度饥饿。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

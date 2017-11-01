@@ -1,0 +1,48 @@
+.contains{
+    width:95%;
+    height:700rpx;
+    background:#fff;
+    margin:20rpx auto;
+    border-bottom:1px solid #ccc;
+}
+.status{
+    display: inline-block;
+    font-family:'微软雅黑';
+    margin:35rpx 35rpx 15rpx 35rpx;
+}
+.clock{
+    display:block;
+    font-family:'微软雅黑';
+    color:#607fa7;
+    font-size:28rpx;
+    margin:0 35rpx 0 35rpx;
+}
+.contains_imgo{
+    display:inline-block;
+    margin:15rpx 0 0 35rpx;
+}
+.footer{
+    position:relative;
+    width:95%;
+    background:#fff;
+    margin:0rpx auto;
+    margin-top:-20rpx;
+    padding-bottom:35rpx;
+}
+.share{
+    position:absolute;
+    display:inline-block;
+    width:45rpx;
+    height:45rpx;
+    right:15rpx;
+    bottom:25rpx;
+}
+.content{
+    display:inline-block;
+    width:85%;
+    font-family:'微软雅黑';
+    font-size:34rpx;
+    padding-left:25rpx;
+    padding-top:25rpx;  
+    padding-bottom:25rpx; 
+}

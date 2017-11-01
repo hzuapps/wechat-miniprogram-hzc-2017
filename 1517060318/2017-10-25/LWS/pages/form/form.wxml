@@ -1,0 +1,35 @@
+<!--pages/form/form.wxml-->
+<view class="page" xmlns:wx="http://www.w3.org/1999/xhtml">
+    <view class="page__hd">
+        <view class="page__title">表单示例</view>
+        <view class="page__desc">输入文字并提交</view>
+    </view>
+    <form bindsubmit="doSubmit"> 
+    <view class="page__bd">
+        <view class="weui-toptips weui-toptips_warn" wx:if="{{paragh}}">{{text + ", " + paragh}}</view><!--提示消息-->
+
+        <view class="weui-cells__title">文本框</view>
+        <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell weui-cell_input">
+                <view class="weui-cell__bd">
+                    <input class="weui-input" placeholder="请输入文本" name="text" value="{{text}}"/>
+                </view>
+            </view>
+        </view>
+
+        <view class="weui-cells__title">文本域</view>
+        <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">
+                    <textarea name="paragh" class="weui-textarea" placeholder="请输入文本" style="height: 3.3em" value="{{paragh}}"/>
+                    <view class="weui-textarea-counter">0/200</view>
+                </view>
+            </view>
+        </view>
+
+        <view class="weui-btn-area">
+            <button class="weui-btn" type="primary" formType="submit">确定</button>
+        </view>
+    </view>
+    </form>
+</view>

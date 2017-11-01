@@ -1,0 +1,50 @@
+<!--pages/comp/article.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">中国计划未来继续扩大在南海军力部署？</view>
+        <view class="page__desc">文章</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+      
+            <view class="weui-article__section">
+     
+       <view class="weui-article__p">
+                        <image class="weui-article__img" src="../../images/0.jpg" mode="aspectFit" style="height: 180px" />
+                
+                    <view class="weui-article__p">
+                      问：据报道，俄罗斯外长拉夫罗夫20日在莫斯科核不扩散会议上称，解决半岛危机需要积极外交努力，当前主要目标是防止爆发军事冲突，否则将不可避免引发大规模灾难。解决朝鲜问题除了对话别无他途，呼吁国际社会支持俄中两国倡议。中方对此有何评论？
+                      </view>
+                    <view class="weui-article__p">
+答：我们赞同拉夫罗夫外长的有关表态。
+                      </view>
+                     <view class="weui-article__p">
+事实上，坚持通过对话协商和平解决半岛核问题是国际社会的普遍愿望与期待，也是联合国安理会有关涉朝决议的要求，这最符合有关各方及国际社会的共同利益，也是中方的一贯立场。
+                      </view>
+                      <view class="weui-article__p">
+我想再次强调，在半岛问题上，军事手段解决不了问题，只会制造更大的麻烦，留下严重的后遗症，不应成为选项。
+                      </view>
+                       <view class="weui-article__p">
+中俄两国在半岛核问题上立场一致，一直保持着密切的沟通协调。中俄以“双轨并行”思路和“双暂停”倡议以及分步走设想为基础提出的共同倡议，是充分考虑并努力平衡兼顾了各方关切的合情合理的方案，有助于摆脱当前困境，并为复谈找到突破口。我们再次呼吁有关各方认真考虑，积极响应，共同为推动半岛核问题重回对话协商解决的正确轨道作出实实在在的努力。
+                        </view>
+                              <view class="weui-article__p">
+问：根据今天最新发布的贸易数据，今年前九个月，中朝贸易额小幅增长3.7%，中方对朝出口上升21%，对朝进口下降16%。你认为这些贸易数据是否反映了中方积极认真执行联合国安理会涉朝决议？
+                            </view>
+                          <view class="weui-article__p">
+答：首先，中方一贯全面、准确、认真、严格地执行联合国安理会通过的涉朝决议，履行我们应尽的国际义务，这一点毋庸置疑。
+                              </view>
+                               <view class="weui-article__p">
+第二，中朝作为近邻，两国之间保持着正常交往与合作。
+                              </view>
+                              <view class="weui-article__p">
+第三，我想强调的是，安理会在通过有关决议时也指出，有关制裁措施无意对朝鲜民生和人道需求产生不利后果，也无意对经济活动与合作、粮食和人道主义援助等决议未禁止活动产生不利影响。
+                               </view>
+我提请各方注意上述事实。
+                    </view>
+                  
+                     
+ 
+  </view>   
+   </view>   
+    </view>    
+    </view>   

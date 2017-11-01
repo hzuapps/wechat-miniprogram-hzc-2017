@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/article/article",
+    "pages/example/qqweq/qqweq",
+    "pages/fm/fm"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00CACA",
+    "navigationBarTitleText": "刘康泓",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#33ffff",
+    "backgroundColor": "#00CACA",
+   
+    "list": [
+      {
+        "selectedIconPath": "pages/image/5b.png",
+        "iconPath": "pages/image/5a.png",
+        "pagePath": "pages/index/index",
+        "text": "资讯"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/5b.png",
+        "iconPath": "pages/image/5a.png",
+        "text": "英雄简介"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/5b.png",
+        "iconPath": "pages/image/5a.png",
+        "text": "留言板"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+"pages": [
+  "pages/comp/scroll",
+  "pages/index/index",
+  "pages/logs/logs",
+  "pages/example/list/list",
+  "pages/example/article/article",
+  "pages/form/form",
+  "pages/comp/article",
+  "pages/comp/article1",
+  "pages/comp/article2",
+  "pages/comp/article3"
+],
+"window": {
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#BBDEF8",
+  "navigationBarTitleText": "新闻资讯",
+  "navigationBarTextStyle": "white"
+},
+"tabBar": {
+  "list": [
+    {
+      "pagePath": "pages/index/index",
+      "iconPath": "images/a1.png",
+      "selectedIconPath": "images/A.png",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/comp/scroll",
+      "iconPath": "images/b1.png",
+      "selectedIconPath": "images/B.png",
+      "text": "发现"
+    },
+    {
+      "pagePath": "pages/form/form",
+      "iconPath": "images/c1.png",
+      "selectedIconPath": "images/C.png",
+      "text": "我"
+    }
+  ]
+}
+}

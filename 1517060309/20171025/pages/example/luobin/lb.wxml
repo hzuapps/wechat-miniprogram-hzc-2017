@@ -1,0 +1,31 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">罗宾</view>
+                    <view class="weui-article__p">
+                    妮可·罗宾（ニコ·ロビン ，Nico·Robin）是日本漫画《海贼王》中的女二号，草帽海贼团的考古学家，出生在西海的考古学之岛“奥哈拉”，年仅8岁就被悬赏千万的奥哈拉幸存者。
+
+妮可·罗宾是拥有“花花果实”的恶魔果实能力者，能让身体的任何部位像开花一样绽放在视线范围内的任何有形体的事物上并作出攻击或其他用途。目标是找到真正的历史正文，绝不饶恕践踏历史文物的人。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/luobin.jpg" mode="aspectFit" style="height: 180px" />
+                       
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                     ​罗宾是超人系“花花果实”能力者，能让身体的任何部位像开花一样长在视线范围内的任何有形体的事物上并作出攻击或其他用途。此用途在偷袭方面相当具有效果。攻击招式数字名称是西班牙语，“フルール”（花开）则是法语“花”的意思，战斗时，周围会有花瓣在飞舞。花开从视线范围内有形的物体上，长出任意数量轮花来形成不同的用途。作者尾田荣一郎表示，罗宾原本最大的极限为两百只手脚，在第二部的剧情中，罗宾已经可以制造出一万只以上的手脚，并且在海中短暂施展能力，甚至可借着能力达到分身的效果。。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

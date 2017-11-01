@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/comp/scroll",
+    "pages/index/index",
+    "pages/index1/index1",
+    "pages/index2/index2",
+    "pages/logs/logs",
+    "pages/images/壁纸/壁纸",
+    "pages/test/test"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "剑灵",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#FF6666",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "pages/images/11.jpg",
+        "iconPath": "pages/images/11.jpg",
+        "pagePath": "pages/comp/scroll",
+        
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "pages/images/22.jpg",
+        "iconPath": "pages/images/22.jpg",
+        "pagePath": "pages/test/test",
+        "text": "留言"
+      },
+      {
+        "selectedIconPath": "pages/images/33.jpg",
+        "iconPath": "pages/images/33.jpg",
+        "pagePath": "pages/logs/logs",
+        "text": "记录"
+      }
+    ]
+  }
+  
+}

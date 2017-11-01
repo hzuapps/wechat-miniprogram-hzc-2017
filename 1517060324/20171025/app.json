@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/comp/scroll",
+    "pages/index/index",
+    "pages/form/form",
+    "pages/test/test",
+    "pages/example/icons/icons",
+    "pages/example/article/article",
+    "pages/example/list/list",
+    "pages/example/grid/grid"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#4c4c4c",
+    "navigationBarTitleText": "王者荣耀",
+    "navigationBarTextStyle":"whlie"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#1296db",
+    "borderStyle": "white",
+    "backgroundColor":"#4c4c4c",
+    "list": [
+      {
+        "selectedIconPath": "/pages/images/3.png",
+        "iconPath": "/pages/images/33.png",
+        "pagePath": "pages/comp/scroll",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "/pages/images/1.png",
+        "iconPath": "/pages/images/11.png",
+        "pagePath": "pages/index/index",
+        "text": "发现"
+      },
+      {
+        "selectedIconPath": "/pages/images/2.png",
+        "iconPath": "/pages/images/22.png",
+        "pagePath": "pages/form/form",
+        "text": "设置"
+      }
+    ]
+  }
+  
+}

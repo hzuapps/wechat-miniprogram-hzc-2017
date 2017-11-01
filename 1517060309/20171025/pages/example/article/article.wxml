@@ -1,0 +1,35 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">路飞</view>
+                    <view class="weui-article__p">
+                     蒙奇·D·路飞，是日本动漫《航海王》的男主角。草帽海贼团船长。由于他的标志性特征是一顶草帽，因此常被直接称呼为草帽小子或草帽路飞。梦想是找到传说中的One Piece，成为海贼王。
+
+性格积极乐观，爱憎分明且十分重视伙伴，对任何危险的事物都超感兴趣。看似白痴，却是一个大智若愚型的无愧船长之职的人。和其他传统的海贼所不同的是，他并不会为了追求财富而无故杀戮，而是享受着身为海贼的冒险。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/lufei.jpg" mode="aspectFit" style="height: 300px" />
+                        <image class="weui-article__img" src="../images/lufeo.jpg" mode="aspectFit" style="height: 300px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                      路飞是超人系“橡胶果实”能力者，全身拥有橡胶体质，在战斗中路飞利用发挥了这一体质，并在不断的战斗中升级自己的招式。
+
+果实特点：能够将身体的任何部位，包含内脏、血管、牙齿，依自己的意思伸长和反弹，使看似普通的打击具有更强的威力。因为身体变成橡胶的缘故，便不用担心打出去的肢体会因为反作用力而受到伤害。变成橡胶的身躯具有绝佳的弹性与延展性。能够伸缩的距离跟能力者本身的实力成正比。 大多数的物理攻击（除了霸气）在打中橡胶人身体时会弹回去或是完全无效，小型的子弹或是普通的炮弹射中身体也能弹回去。此外，橡胶的身体不能导电，因此雷电的招式对他无效。
+
+果实弱点：斩击、砍击、高热以及低温的攻击。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
