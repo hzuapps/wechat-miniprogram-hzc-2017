@@ -1,0 +1,29 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">奔驰</view>
+                    <view class="weui-article__p">
+                    梅赛德斯-奔驰（Mercedes-Benz）是世界知名的德国汽车品牌，创立于1900年，总部设在斯图加特，创建人为卡尔·本茨（Karl Benz）和戈特利布·戴姆勒（Gottlieb Daimler）。梅赛德斯-奔驰以高质量、高性能的汽车产品闻名于世，除了高档豪华轿车外，奔驰公司还是世界上最著名的大客车和重型载重汽车的生产厂家。目前，梅赛德斯-奔驰为戴姆勒（Daimler AG）旗下的一个部门。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/benchi.jpg" mode="aspectFit" style="height: 180px" />
+                       
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                     ​梅赛德斯-奔驰（Mercedes-Benz），德国汽车品牌，被认为是世界上最成功的高档汽车品牌之一。其完美的技术水平、过硬的质量标准、推陈出新的创新能力、以及一系列经典轿跑车款式令人称道。在国际上，该品牌通常被简称为梅赛德斯（Mercedes），而中国内地称其为“奔驰”，台湾译为“宾士”，香港译为“平治”。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

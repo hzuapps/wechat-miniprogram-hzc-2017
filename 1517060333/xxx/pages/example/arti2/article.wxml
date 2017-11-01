@@ -1,0 +1,29 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">法拉利</view>
+                    <view class="weui-article__p">
+                    法拉利(Ferrari)是一家意大利汽车生产商，1929年由恩佐·法拉利(Enzo Ferrari)创办，主要制造一级方程式赛车、赛车及高性能跑车。法拉利是世界闻名的赛车和运动跑车的生产厂家，早期的法拉利赞助赛车手及生产赛车，1947年独立生产汽车。菲亚特(FIAT)拥有法拉利90%的股权，但法拉利却能独立于菲亚特运营。法拉利汽车大部分采用手工制造，产量很低，截至2011年法拉利共交付7195台新车，为法拉利史上最佳销售业绩。公司总部在意大利的马拉内罗(Maranello)。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/falali.jpg" mode="aspectFit" style="height: 180px" />
+                        
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                   拉利汽车公司的创始人恩佐·法拉利说：“他最中意的赛车是他还没有造出来的赛车，他最大的成功是他还没有达到的成功。”这位被誉为“赛车之父”的意大利人，嗜车如命的血液从小就在他的身上沸腾。当他13岁时，终于说服了父亲，开始了自己单独驾车的历史。赛车场上发动机的轰鸣声，比赛的惊险和刺激，使他越战越勇。他当年驾驶着阿尔法·罗密欧（Alfa Romeo）驰骋赛场，屡获胜利，被队友们誉为赛车队的“骑士”。他由参加赛车到组建赛车俱乐部，最后终于创建了自己的汽车公司。法拉利被誉为“红魔”。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
