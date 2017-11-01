@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/article/article",
+    "pages/example/qqweq/qqweq",
+    "pages/fm/fm"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#CD0000",
+    "navigationBarTitleText": "陈建权",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "backgroundColor": "#CD0000",
+   
+    "list": [
+      {
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "pagePath": "pages/index/index",
+      "text": "首页"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "text": "势力"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "text": "提交"
+      }
+    ]
+  }
+}
