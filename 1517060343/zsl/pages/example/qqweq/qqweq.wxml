@@ -1,0 +1,31 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="weui-article__h3">2011年总决赛冠军：Fnatic 100,000美元</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">2012年总决赛冠军：TPA 1,000,000美元</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">2013年总决赛冠军SKT T1 1,000,000美元</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">2014年总决赛冠军SSW 1,000,000美元</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">2015年总决赛冠军：SKT T1 1,000,000美元</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">2016年总决赛冠军：SKT 268万美元</view>
+                </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">2017年总决赛进行中......</view>
+                </view>
+              
+            </view>
+        </view>
+    </view>
+</view>
