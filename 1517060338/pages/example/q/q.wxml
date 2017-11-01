@@ -1,0 +1,55 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">武器</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">弹药包</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/q.jpg" mode="aspectFit" style='width:300px; height: 300px' />
+                    </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">护甲包</view>
+                </view>
+                 <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/q1.jpg" mode="aspectFit" style='width:300px; height: 300px' />
+                    </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">尸体袋</view>
+                </view>
+                 <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/q2.jpg" mode="aspectFit" style='width:300px; height: 300px' />
+                    </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">医疗包</view>
+                </view>
+                 <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/q3.jpg" mode="aspectFit" style='width:300px; height: 300px' />
+                    </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">ECM</view>
+                </view>
+                 <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/q4.jpg" mode="aspectFit" style='width:300px; height: 300px' />
+                    </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">急救包</view>
+                </view>
+                 <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/q5.jpg" mode="aspectFit" style='width:300px; height: 300px' />
+                    </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">自动炮台</view>
+                </view>
+                 <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/q6.jpg" mode="aspectFit" style='width:300px; height: 300px' />
+                    </view>
+               
+            </view>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,95 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">合约提供者</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">贝恩(Bain)</view>
+                    <view class="weui-article__p">Crime.net的幕后主使。没有任何一个人，甚至就连四人组成员都没有见过贝恩的真容。他和线人通过精心安排的秘密渠道联系，以确保所有方面所承受的风险尽可能低。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">弗拉德(Vlad)</view>
+                    <view class="weui-article__p">弗拉德是个乌克兰人在俄罗斯时曾经是一个可怕的暴徒，现在他离开地盘多年，在华盛顿做着敲诈和犯罪的买卖。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">赫克特(Hector)</view>
+                    <view class="weui-article__p">赫克特是一位注重细节的前业务管理员，而现在是东海岸最大的毒品贩子，也是墨西哥锡那罗亚帮派的下任领袖。查明为出卖霍斯顿的叛徒，现已被击毙。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">“大象”(The Elephant)</view>
+                    <view class="weui-article__p">约翰·亨利·西蒙斯(John Henry Simmons)，被媒体称为“大象”。一个肮脏的共和国会议员，通过各种神秘得到关系达到了权力的高峰。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">盖奇(Gage)</view>
+                    <view class="weui-article__p">盖奇是一名参与过阿富汗战争的老兵，以推着轮椅完成各种暗杀而闻名。他是这片地区最大的军火商-----同时也是一名暗杀好手。必要时，它将成为你们的得力帮手。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">牙医(The Dentist)</view>
+                    <view class="weui-article__p">“牙医"其人，知之甚少。他把客户视为自己的病人。他态度坚决，计划周密，并且对PAYDAY帮很有兴趣。最重要的是，只有他有办法救出霍斯顿。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">屠夫(The Butcher)</view>
+                    <view class="weui-article__p">屠夫是一名军火贩子，从事着各类军火的采购，贩卖和中转运输。由于盖奇正在“度长假”，她想借此时机与贝恩和PAYDAY帮建立长期稳定的合作关系。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/7.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">洛克(Locke)</view>
+                    <view class="weui-article__p">生于南非，受教于林肯实验室(Lincoln Lab)，受训于军情五处(MI5)，现在受雇于“黑水”(Murkywater)集团。弗农·洛克(Vernon Locke)是特别网络行动组(Special Cyberwarfare Division)的领导，负责执行渗透Crime.net的任务。洛克成功完成目标，然而他将这是为一个机会，并与贝恩和PAYDAY帮接触。条件是什么？为他工作，否则他就让Crime.net永远消失。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/8.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">吉米(Jimmy)</view>
+                    <view class="weui-article__p">不得不承认，一开始我对他持非常怀疑的态度，但吉米的能力却胜过任何一个人，是一个拥有Crime.Net能力的劫匪。
+他什么都做，不会拒绝任何一项合约行动，总把每天当成他人生的最后一天来过。他十分忠诚，我从未想过他能够证明自己是我们所需要的一位十分出色的新成员
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/9.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">欧陆集团(The Continental)</view>
+                    <view class="weui-article__p">欧陆集团是个神秘的机构，一座酒店同时为职业杀手以及其他步入黑暗之人的避风港。有时候欧陆集团会需要一些服务，特殊天赋的服务。这是PAYDAY帮牵扯进来的原因。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/10.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+               
+                    
+                </view>
+                
+            </view>
+        </view>
+    </view>
+</view>

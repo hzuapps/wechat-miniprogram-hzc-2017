@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/a/a",
+    "pages/example/qqweq/qqweq",
+    "pages/fm/fm"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#006cff",
+    "navigationBarTitleText": "郑昊",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "backgroundColor": "#006cff",
+   
+    "list": [
+      {
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "text": "角色介绍"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "text": "提交"
+      }
+    ]
+  }
+}
