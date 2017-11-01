@@ -1,0 +1,31 @@
+<!--index.wxml-->
+
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">法拉利</view>
+        <view class="page__desc">LaFerrari会展</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">法拉利LaFerrari</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/fm/fm" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">LaFerrari</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入</view>
+            </navigator>
+            </view>
+            <view class="weui-cells__title">LaFerrari发展</view>
+            <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/qqweq/qqweq" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">LaFerrari生产</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入</view>
+            </navigator>
+        </view>
+        <view class="weui-cells__title">LaFerrari介绍</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">LaFerrari简介</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入</view>
+            </navigator>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,69 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">法拉利LaFerrari</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">历史</view>
+                    <view class="weui-article__p">2013年3月5日，马拉内罗，作为法拉利Enzo的接班人--LaFerrari终于揭开其神秘面纱，法拉利品牌最受期待的特别限量版车型当天在日内瓦国际车展上耀世登场。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">产量</view>
+                    <view class="weui-article__p">法拉利LaFerrari是法拉利品牌最受期待的特别限量版车型当天在日内瓦国际车展上耀世登场，此款特别版公路跑车将仅限量生产499辆。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">外形</view>
+                    <view class="weui-article__p">LaFerrari的底盘采用了四种以上不同类别的碳纤维，全部手工层压处理并由赛车部门采用与F1赛车相同的设计和生产工艺高压铸造。这有助于优化设计:在底盘中集成多项不同功能(例如座椅和电池舱)，以改善抗扭刚度(+27%)和纵梁刚度(+22%)，同时减轻重量。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">特点</view>
+                    <view class="weui-article__p">该车采用了混合动力方式驱动。这种混合动力技术称为HY-KERS，代表着极致性能与低排放的完美整合。LaFerrari配备动态车辆控制系统，这是该系统首次与主动式空气动力学设计和HY-KERS系统同时整合在一款公路跑车上。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">速度</view>
+                    <view class="weui-article__p">法拉利LaFerrari的0-100km/h加速时间少于3秒，0-200km/h加速也少于7秒，0-300km/h更只需15秒，极速高达350km/h以上。LaFerrari拥有超凡极致的性能表现、空气动力效率以及操控性，为超级跑车树立了新的标杆。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">内部</view>
+                    <view class="weui-article__p">车内则是全新设计的方向盘，集成了各种主要功能，换挡拨片更长、更符合人体工程学原理。独具特色的排挡座采用优美的悬挂翼式外观设计，其上排列着各种F1变速箱控制功能。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">售价</view>
+                    <view class="weui-article__p">HY-KERS系统，最大功率合计 963 CV，最大扭矩合计 >900 Nm，V12 最大功率 800 CV 9000 rpm，最大转速 9250 rpm，V12最大扭矩 700 Nm 6750 rpm，电机输出 120 Kw (163 CV)二氧化碳排放量 330 g/km，售价2250万
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/7.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+               
+                
+            </view>
+        </view>
+    </view>
+</view>
