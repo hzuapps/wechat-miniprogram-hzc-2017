@@ -1,0 +1,36 @@
+﻿<!--pages/dakai/dakai.wxml-->
+<view class="page">
+    <view class="page__hd">
+      <view class="page__title">Article</view>
+        <view class="page__desc">吉他</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">乐器</view>
+            <view class="weui-article__section">
+                <view class="weui-article__title">Guitar</view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">1.1 节标题</view>
+                    <view class="weui-article__p">
+                       
+适用
+古典音乐,流行音乐，摇滚音乐，蓝调，民歌，弗拉门戈
+吉他被用于多种音乐风格， 它在流行音乐、摇滚音乐、蓝调、民歌、古典、弗拉门戈中常被视为主要乐器。吉他亦有被于用古典音乐，有大量的独奏曲， 室内乐和管弦乐中偶有使用。它通常有六弦，但亦有四弦、八弦、十弦和十二弦。
+
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/pic_article.png" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/pic_article.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">1.2 节标题</view>
+                    <view class="weui-article__p">
+                       吉他主要有两大类：一是历史悠久、以木制共鸣箱扩音的民谣吉他，二是二十世纪被发明、以电扩音器扩音的电吉他。原声吉他有四种：平面吉他（在中国也叫民谣吉他），拱面吉他（又名爵士吉他），古典吉他和弗拉门戈吉他。木吉他通常被用于古典音乐、民间音乐及流行音乐。　电吉他则通常被用于摇滚音乐、蓝调及流行音乐。电吉他的发明对西方流行文化及音乐有重要影响。 
+另有一点鲜为人知的是，吉他家族中最“贵族”的古典吉他与小提琴、钢琴并列为世界著名三大乐器。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

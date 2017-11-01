@@ -1,0 +1,17 @@
+<!--pages/xunzhao/xunzhao.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">内敛的鼻毛</view>
+        <view class="page__desc">蔡树彪</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">测试</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/dakai/dakai" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">例子</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+          
+        </view>
+    </view>
+</view>
