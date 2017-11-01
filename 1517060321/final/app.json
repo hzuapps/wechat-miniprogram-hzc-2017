@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/scoll/scoll",
+    "pages/find/find",
+    "pages/view/view",
+    "pages/form/form",
+    "pages/open/open",
+    "pages/open2/open2",
+    "pages/open3/open3",
+    "pages/open4/open4",
+    "pages/open5/open5",
+    "pages/open6/open6"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#13227a",
+    "navigationBarTitleText": "SUPERTOFU",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/scoll/scoll",
+        "iconPath": "image/1.png",
+        "selectedIconPath": "image/111.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/find/find",
+        "iconPath": "image/2.png",
+        "selectedIconPath": "image/222.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "iconPath": "image/3.png",
+        "selectedIconPath": "image/333.png",
+        "text": "设置"
+      }
+    ]
+  }
+}
