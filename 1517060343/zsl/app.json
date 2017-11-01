@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/article/article",
+    "pages/example/qqweq/qqweq",
+    "pages/fm/fm"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#99CCFF",
+    "navigationBarTitleText": "庄世林的小程序",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "backgroundColor": "#99CCFF",
+   
+    "list": [
+      {
+        "selectedIconPath": "pages/image/14.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "pagePath": "pages/index/index",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/14.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "text": "其他英雄"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/14.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "text": "提交"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">LOL英雄介绍</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">寒冰射手</view>
+                    <view class="weui-article__p">伴随着每一发弓箭从她的上古寒冰弓上发射，艾希证明了她是一位神射手。她小心的选择每一个目标，等待正确的时机，射出精准有力的箭矢。她抱着同样的愿景和专注于她的目标，为了寻求弗雷尔卓德部族的统一并将他们打造成一个强大的国家。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">德玛西亚之力</view>
+                    <view class="weui-article__p">盖伦是绝大部分英雄联盟玩家最先接触到的英雄，再加上简单的上手难度和帅气的造型让他深受广大玩家喜爱，成为最能代表英雄联盟的角色之一。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">无极剑圣</view>
+                    <view class="weui-article__p">易大师是一个有超高机动性的刺客、战士型英雄，擅长利用快速的打击迅速击溃对手，易大师一般打野和走单人路，作为无极剑道的最后传人，易可以迅速砍出大量伤害，同时还能利用技能躲避猛烈的攻击，避开敌人的集火。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">探险家</view>
+                    <view class="weui-article__p">探险家·伊泽瑞尔是《英雄联盟》中的一名英雄。一名非常灵活飘逸的英雄，双加成的技能使他不但可以走AD路线，也能作为法师走AP路线。勇敢的年轻探险家伊泽瑞尔已经探索过符文之地上的一些最为偏远和荒废的地区。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">冰晶凤凰</view>
+                    <view class="weui-article__p">冰鸟是LOL里控场强力的法系英雄，冰鸟有着独特的双倍伤害技能和重生被动，但是因Q技能缓慢的飞行速度，E技能触发双倍需要繁琐操作，W技能对时机把握的高要求而导致的较高的失误率。再加上法师天生的贫血脆皮特质，还有天杀的移动速度，使冰鸟成为公认的高上手难度英雄。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">疾风剑豪</view>
+                    <view class="weui-article__p">疾风剑豪亚索他是一位近战爆发AD刺客，双突进的技能设置，使得他在中单游刃有余，并且大招在队友的配合下，在团战中能够发挥至关重要的作用。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">狂野女猎手</view>
+                    <view class="weui-article__p">奈德丽拥有非常出色的消耗能力，超远距离的标枪对于敌人来说防不胜防，更加可怕的是她变身为豹子形态后的超强爆发和机动性，是一个可玩性非常高的英雄。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/7.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+               
+                
+            </view>
+        </view>
+    </view>
+</view>

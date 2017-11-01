@@ -1,0 +1,31 @@
+<!--index.wxml-->
+
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">LOL</view>
+        <view class="page__desc">欢迎来到召唤师峡谷</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">LOL</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/fm/fm" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">LOL</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入</view>
+            </navigator>
+            </view>
+            <view class="weui-cells__title">世界总决赛</view>
+            <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/qqweq/qqweq" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">世界总决赛</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入</view>
+            </navigator>
+        </view>
+        <view class="weui-cells__title">角色介绍</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">角色介绍</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">进入</view>
+            </navigator>
+        </view>
+    </view>
+</view>
