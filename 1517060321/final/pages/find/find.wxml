@@ -1,0 +1,17 @@
+<!--pages/find/find.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">15软件三班刘朝捷</view>
+        <view class="page__desc">Sprite</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">TEST</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/open/open" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">KEEP GOING</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">Open</view>
+            </navigator>
+          
+        </view>
+    </view>
+</view>
