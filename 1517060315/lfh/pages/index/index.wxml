@@ -1,0 +1,35 @@
+<!--index.wxml-->
+
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">HITMAN REBORN!</view>
+        <view class="page__desc">周刊少年JUMP</view>
+    </view>
+    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/b1.jpg" mode="aspectFit" style="width:420px; height: 380px" />
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">家庭教师REBORN</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/hb/hb" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">家庭教师REBORN</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+                
+            </navigator>
+            </view>
+            <view class="weui-cells__title">黑手党家族</view>
+            <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/jz/jz" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">黑手党家族</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+        <view class="weui-cells__title">彭格列十代</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/sd/sd" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">彭格列十代</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+    </view>
+</view>
