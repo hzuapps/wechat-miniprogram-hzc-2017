@@ -1,0 +1,7 @@
+/* pages/comp/view.wxss */
+page{
+    background-color: #efefef;
+}
+image{
+    margin: 4px 0;
+}
