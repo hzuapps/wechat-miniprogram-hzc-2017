@@ -1,0 +1,106 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">探险家：射手、吸血</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">探险家：射手、吸血</view>
+                    <view class="weui-article__p">探险家·伊泽瑞尔是《英雄联盟》中的一名英雄。一名非常灵活飘逸的英雄，双加成的技能使他不但可以走AD路线，也能作为法师走AP路线。勇敢的年轻探险家伊泽瑞尔已经探索过符文之地上的一些最为偏远和荒废的地区。在对古代恕瑞玛被掩埋的废墟进行探索时，他发现了一个拥有难以置信的神秘力量的护符。可能是做给某个飞升者穿戴的，这个巨大的护符紧套在他的手臂上，将他的原生魔法技术增幅到一个足以让他获得“英雄”名号的程度，让他十分尴尬。
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">宝石骑士：辅助、保护</view>
+                    <view class="weui-article__p">塔里克曾是德玛西亚的一名军官，他生性浪漫，英俊迷人，却在一个夜里为了游览附近的神庙而离开了自己的驻地，导致他的手下遭人偷袭而全军覆没，他在无尽的悔恨中踏上了流放的旅途，他一路颠沛，来到了巨神峰脚下，只希望能在山巅找到救赎，他强忍着心中的内疚，艰难的攀上了峰顶，却与来自巨神峰的守护者不期而遇，在经受了考验之后，塔里克发现自己得到了守护之力的加持，并从此担上了保护瓦洛兰的重任。在游戏中，塔里克是个坦克型辅助，他身怀异能，靠着自己灵活而有效的技能，在战场上来去自如。[
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">荒漠屠夫：、战士、先手</view>
+                    <view class="weui-article__p">荒漠屠夫·雷克顿是竞技网游《英雄联盟》中的一名英雄，常常出现在上单的位置上，是一名高伤害、高机动性的半肉战士英雄。[
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">沙漠死神：战士、先手、开团</view>
+                    <view class="weui-article__p">沙漠死神内瑟斯，俗称狗头，是竞技网游《英雄联盟》中的一位英雄，来自远古的恕瑞玛文明。内瑟斯是非常早期推出的一个非常全面的坦克英雄，技能拥有爆发、控制、削弱、回复等效果，能够胜任上单位置，但是由于前期太过弱势，对线期间容易被压制，因此坐上了冷板凳的位置。内瑟斯拥有吞噬灵魂、摄魂痛击、枯萎、灵魂烈焰和死神降临等技能，一个发育良好的狗头在后期无论是输出还是防御都是噩梦般的存在。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">发条魔灵：法师、消耗：</view>
+                    <view class="weui-article__p">奥莉安娜打法多样。主升指令：攻击（Q ）可能会决定你这场是DPS。主升指令：杂音（W）， 中立。主升指令：防卫（E）， 可能会决定你这场是辅助。奥莉安娜可以中单，也可以走双人路。走双人路最好和高爆发英雄、控制类英雄一路，和带治疗的辅助英雄搭档也不错。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">盲僧。瞎子</view>
+                    <view class="weui-article__p">李青是一个近战战士型英雄，拥有很高的机动性和爆发力，单挑和小规模团战能力很强，同时李青也是非常优秀的打野英雄，非常擅长野区的遭遇战和Gank，是非常致命的英雄人物。李青的缺点是比较依赖技能的命中率和连招成功率，需要大量的练习才能掌握。[
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">赵信。菊花信</view>
+                    <view class="weui-article__p">属于德玛西亚阵营，赵信是光盾王朝的私人管家。而在游戏中的赵信则是一个爆发能力极高的战士英雄，他也是一名优秀的团战发起者，能够以迅雷不及掩耳的速度突破对方的防线，对对方的核心英雄造成致命威胁，但是赵信也有着装备没成型之前过于脆弱，没有逃生手段等等劣势。[
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/7.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">时光老人。时光倒流</view>
+                    <view class="weui-article__p">基兰是个另类的AP英雄，他只有一个输出技能，输出手段比较匮乏，但他的技能强度非常之大，能给团队提供巨大的增益效果，他不是一个能拯救世界的英雄，但搭配一些合理的阵容可以起到意想不到的效果。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/8.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">黑暗之女，辛德拉</view>
+                    <view class="weui-article__p">暗黑元首生来就具有无边的魔法潜能，除了爱好以自己的意志来运用这难以置信的能量外，就再无所好。随着每一天的过去，她的魔力天赋也变得更加有效且更具毁灭性。暗黑元首拒绝任何平衡或克制的观念，只想保持她对能量的控制权，即使它意味着那些想要制止她的当局会废掉她。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/9.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">铸星龙王。消耗</view>
+                    <view class="weui-article__p">在遭到巨神族算计而沦为仆从之后，古老的星空始祖奥瑞利安·索尔被迫以他们的名义征战了千年，战火所及遍布宇宙，毁灭了无数星球和身居其上的种族，但是现在，他已经感受到他们的控制有所削弱， 于是他来到了符文之地，抹除那些胆敢奴役铸星龙王的人，以夺取自由。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/10.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">疾风剑豪，yasuo</view>
+                    <view class="weui-article__p">英雄联盟第117位新英雄Yasuo（亚索）疾风剑豪亚索他是一位近战爆发AD刺客，双突进的技能设置，使得他在中单游刃有余，并且大招在队友的配合下，在团战中能够发挥至关重要的作用。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/11.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">影流之主</view>
+                    <view class="weui-article__p">劫是一名以消耗能量为主的近战刺客，他拥有超高的技能爆发，在线上也具备十足的威胁力。他的定位和之前的刺客英雄泰隆很像，但相比泰隆劫有着更为强大的后期。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/12.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                
+            </view>
+        </view>
+    </view>
+</view>

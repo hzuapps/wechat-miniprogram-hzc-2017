@@ -1,0 +1,42 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">召唤师峡谷</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">纳什男爵</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">峡谷先锋</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">峡谷迅捷蟹</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">大型暗影狼-暗影狼 </view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">深红峰啄鸟-峰啄鸟</view>
+                </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">绯红印记树怪-绯红树怪</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">远古石甲虫-石甲虫</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">魔沼蛙</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">苍蓝雕纹魔像-苍蓝哨戒</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">远古龙</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
