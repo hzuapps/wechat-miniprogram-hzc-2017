@@ -1,0 +1,25 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">伟大航路</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">东海</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">北海</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">南海</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">西海</view>
+                </view>
+
+            </view>
+        </view>
+    </view>
+</view>
