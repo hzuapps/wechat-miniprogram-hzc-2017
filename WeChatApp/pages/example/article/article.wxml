@@ -1,0 +1,60 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">晓组织</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">佩恩</view>
+                    <view class="weui-article__p">晓”首领，拥有轮回眼的血继限界。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">小南</view>
+                    <view class="weui-article__p">佩恩的同伴和女队友。
+
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">绝</view>
+                    <view class="weui-article__p">样似植物的神秘人，本体分为黑绝、白绝两部分，另有阿飞等大量分身。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">宇智波鼬</view>
+                    <view class="weui-article__p">佐助的哥哥，宇智波一族的精英忍者。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">干柿鬼鲛</view>
+                    <view class="weui-article__p">原为“忍刀七人众”之一，鼬的队友。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">角都</view>
+                    <view class="weui-article__p">全身布满神秘的黑线，飞段的队友。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>                
+            </view>
+        </view>
+    </view>
+</view>
