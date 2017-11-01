@@ -1,0 +1,44 @@
+<!--index.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">微信小程序开发</view>
+        <view class="page__desc">示例列表</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">组件开发</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/comp/view" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">view用法</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/comp/scroll" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">scroll-view用法</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/form/form" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">form用法</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+        <view class="weui-cells__title">官方例子</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">article例子</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+
+            <navigator url="/pages/comp/swiper" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">swiper例子</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/comp/gdym" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">更多推荐</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/login/login" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">登录</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+    </view>
+</view>

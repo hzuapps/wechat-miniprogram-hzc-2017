@@ -1,0 +1,15 @@
+<view class='gd01'>更多推荐</view>
+<view><image class="gdpic" src="/pages/example/images/xm01.jpg" mode="aspectFit" style="width: 100%" />
+    <view class="weui-article__section">
+                    <view class="weui-article__h3">夏目友人帐</view>
+                    <view class="weui-article__p">
+                        夏目贵志生来拥有强大的灵力，能看到妖怪和神明的存在。因其父母双亡，常年辗转于互相推卸责任的亲戚之间，并受到同龄人的欺负。同时被其能力影响，未曾与任何人深交，造成性格一定程度上的孤僻。本性和善，宽厚，踏实。对于自身的不幸，无论是对人类还是妖怪都未曾抱怨过。被藤原夫妇收养后踏入高中。一次被妖怪追赶打破了一只妖怪“斑”的封印，继而牵涉到其祖母夏目玲子的遗物“友人帐”——一本记录着众多妖怪名字的契约书。对友人帐产生兴趣的“斑”与贵志定下约定，自己守护其一生以替换友人帐的所有权，平日则化身成大头招财猫模样的“猫咪老师”。在“斑”的陪伴、八原妖怪和同学们关心鼓励下，贵志经历了一个个或奇异、悲伤、感怀的怪诞故事，并逐渐学会与人类、妖怪友好相处，谱写出一段充满人性哲思的温馨物语。
+                    </view>
+                </view>
+</view>
+<view><image class="gdpic" src="/pages/example/images/hm01.jpg" mode="aspectFit" style="width: 100%" /><view class="weui-article__section">
+                    <view class="weui-article__h3">未闻花名</view>
+                    <view class="weui-article__p">
+                        《未闻花名》是一部用直达内心的笔触描写青春期的少男少女在面对恋情、友情、纠葛时，有欢欣笑容也有伤心泪水的青春原创动画片。
+                    </view>
+                </view></view>

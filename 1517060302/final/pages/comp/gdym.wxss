@@ -1,0 +1,5 @@
+.gd01{
+  color: blue;
+  background: yellow;
+  text-align: center;
+}
