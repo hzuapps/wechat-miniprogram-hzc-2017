@@ -1,0 +1,42 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">王者峡谷</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">墨家机关道</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">猩红石像</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">蔚蓝石像</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">魔种红鹰</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">魔种蓝鹰</view>
+                </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">魔种野猪</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">魔种猎豹</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">河道蜥蜴</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">黑暗暴君</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">暗影主宰</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
