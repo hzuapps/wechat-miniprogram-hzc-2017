@@ -1,0 +1,42 @@
+{
+  
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/faxian/faxian",
+    "pages/AK47/AK47",
+    "pages/M16A4/M16A4",
+    "pages/game/game",
+    "pages/login/login",
+    "pages/shezhi/shezhi"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "绝地求生游戏盒子",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "pages/images/b.png",
+        "selectedIconPath": "pages/images/b.png",
+        "text": "排行榜"
+      },
+      {
+        "pagePath": "pages/faxian/faxian",
+        "iconPath": "pages/images/a.png",
+        "selectedIconPath": "pages/images/a.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/shezhi/shezhi",
+        "iconPath": "pages/images/c.png",
+        "selectedIconPath": "pages/images/c.png",
+        "text": "留言"
+      }
+    ]
+  }
+}

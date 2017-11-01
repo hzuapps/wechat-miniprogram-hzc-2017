@@ -1,0 +1,25 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">绝地求生相关咨询</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">武器参数说明</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/AK47/AK47" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">AK47卡宾枪详情</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/M16A4/M16A4" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">M16A4详情</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+        <view class="weui-cells__title">游戏更新详情</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/game/game" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">第十六周更新说明</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+    </view>
+</view>
