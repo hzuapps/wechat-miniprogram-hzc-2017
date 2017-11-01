@@ -1,0 +1,51 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/and/button",
+    "pages/example/grid/grid",
+    "pages/example/msg/msg",
+    "pages/example/button/button",
+    "pages/form/form",
+    "pages/logs/logs"
+    
+    
+    
+   
+   
+
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "My  WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "/pages/example/images/111.png",
+        "iconPath": "/pages/example/images/11.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "/pages/example/images/221.png",
+        "iconPath": "/pages/example/images/22.png",
+        "pagePath": "pages/comp/scroll",
+        "text": "发现"
+      },
+      {
+        "selectedIconPath": "/pages/example/images/331.png",
+        "iconPath": "/pages/example/images/33.png",
+        "pagePath": "pages/form/form",
+        "text": "设置"
+      }
+    ]
+  }
+  
+}
