@@ -1,0 +1,29 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">苍蝇</view>
+                    <view class="weui-article__p">
+                       在生物学上，苍蝇属于典型的“完全变态昆虫”。70年代末统计，全世界有双翅目的昆虫132个科12万余种，其中蝇类就有64个科3万4千余种。主要蝇种是家蝇、市蝇、丝光绿蝇、大头金蝇等。苍蝇是在白昼活动频繁的昆虫，具有明显的趋光性。夜间则静止栖息。活动、栖息场所，取决于蝇种、季节、温度和地域。在某些季节，厩腐蝇、夏侧蝇、市蝇也会侵入住宅内。大头金蝇、丝光绿蝇、丽蝇、伏蝇、麻蝇等则主要活动、栖息于户外。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../../../images/7.jpg" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../../../images/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                       苍蝇具有一次交配可终身产卵的生理特点，一只雌蝇一生可产卵5-6次，每次产卵数约100-150粒，最多可达300粒左右。一年内可繁殖10-12代。苍蝇多以腐败有机物为食，因此常见于卫生较差的环境。苍蝇具有舐吮式口器，会污染食物，传播痢疾等疾病。在生态系中，苍蝇的幼虫扮演动植物分解者的重要角色。苍蝇的成虫由于嗜食甜物质，因此也能代替蜜蜂用于农作物的授粉和品种改良。临床医学上，活蝇蛆可接种于伤口之中，起杀菌清创，促进愈合之作用。富含蛋白质的蝇蛆又是重要的饵料、饲料，可工厂化生产。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
