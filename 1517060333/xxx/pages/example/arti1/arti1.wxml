@@ -1,0 +1,29 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">兰博基尼</view>
+                    <view class="weui-article__p">
+                     作为全球顶级跑车制造商及欧洲奢侈品标志之一，拥有霸气的外表，兰博基尼一贯秉承将极致速度与时尚风格融为一体的品牌理念，不断创新并寻求全新品牌突破。此次涉足时装领域，将为兰博基尼品牌拥趸者提供更加丰富多彩的品牌产品选择。兰博基尼（Lamborghini），又被翻译作朗博基尼，林保坚尼。在意大利乃至全世界，兰博基尼是诡异的，它神秘地诞生，出人意料地推出一款又一款的让人咋舌的超级跑车。
+                    </view>
+                    <view class="weui-article__p">
+                       
+                        <image class="weui-article__img" src="../images/lanbo.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                    兰博基尼汽车公司（Automobili Lamborghini S.p.A.）是一家坐落于意大利圣亚加塔·波隆尼（Sant'Agata Bolognese）的跑车制造商，公司由费鲁吉欧·兰博基尼在1963年创立。早期由于经营不善，于1980年破产；数次重组后，1998年归入奥迪旗下，现为大众集团（Volkswagen Group）旗下品牌之一。兰博基尼的标志是一头充满力量、正向对方攻击的斗牛，与大马力高性能跑车的特性相契合，同时彰显了创始人斗牛般不甘示弱的个性。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

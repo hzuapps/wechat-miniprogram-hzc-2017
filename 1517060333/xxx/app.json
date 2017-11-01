@@ -1,0 +1,44 @@
+{
+"pages": [
+  "pages/comp/scroll",
+  "pages/index/index",
+  "pages/logs/logs",
+  "pages/comp/view",
+  "pages/example/list/list",
+  "pages/example/article/article",
+  "pages/form/form",
+  "pages/example/arti1/arti1",
+  "pages/example/arti2/article",
+  "pages/example/arti3/article",
+  "pages/example/Mercedes-Benz/lb",
+  "pages/example/Maserati/qb"
+],
+"window": {
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTitleText": "跑车",
+  "navigationBarTextStyle": "white"
+},
+"tabBar": {
+  "list": [
+    {
+      "pagePath": "pages/index/index",
+      "iconPath": "images/1.png",
+      "selectedIconPath": "images/11.png",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/comp/scroll",
+      "iconPath": "images/2.png",
+      "selectedIconPath": "images/22.png",
+      "text": "发现"
+    },
+    {
+      "pagePath": "pages/form/form",
+      "iconPath": "images/3.png",
+      "selectedIconPath": "images/33.png",
+      "text": "我"
+    }
+  ]
+}
+}
