@@ -13,28 +13,30 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#7A67EE",
+    "navigationBarBackgroundColor": "#EEEE00",
     "navigationBarTitleText": "第一个小程序",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
+    "color":"#ffffff",
+    "backgroundColor":"yellow",
     "list": [
       {
         "pagePath": "pages/index/index",
-        "iconPath": "pages/example/images/17.png",
+        "iconPath": "pages/example/images/67.png",
         "selectedIconPath": "pages/example/images/17.png",
         "text": "首页"
       },
       {
         "pagePath": "pages/comp/scroll",
-        "iconPath": "pages/example/images/80.jpg",
-        "selectedIconPath": "pages/example/images/80.jpg",
+        "iconPath": "pages/example/images/80.png",
+        "selectedIconPath": "pages/example/images/432.png",
         "text": "发现"
       },
       {
         "pagePath": "pages/form/form",
-        "iconPath": "pages/example/images/10.jpg",
-        "selectedIconPath": "pages/example/images/10.jpg",
+        "iconPath": "pages/example/images/10.png",
+        "selectedIconPath": "pages/example/images/101.png",
         "text": "关于"
       }
     ]
