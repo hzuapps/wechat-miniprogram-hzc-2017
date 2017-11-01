@@ -1,0 +1,42 @@
+{
+"pages": [
+  "pages/comp/scroll",
+  "pages/index/index",
+  "pages/logs/logs",
+  "pages/comp/view",
+  "pages/example/list/list",
+  "pages/example/article/article",
+  "pages/form/form",
+  "pages/example/arti1/arti1"
+  
+ 
+],
+"window": {
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#BBDEF8",
+  "navigationBarTitleText": "水果世界",
+  "navigationBarTextStyle": "white"
+},
+"tabBar": {
+  "list": [
+    {
+      "pagePath": "pages/index/index",
+      "iconPath": "images/1.png",
+      "selectedIconPath": "images/11.png",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/comp/scroll",
+      "iconPath": "images/2.png",
+      "selectedIconPath": "images/22.png",
+      "text": "发现"
+    },
+    {
+      "pagePath": "pages/form/form",
+      "iconPath": "images/3.png",
+      "selectedIconPath": "images/33.png",
+      "text": "设置"
+    }
+  ]
+}
+}

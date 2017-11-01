@@ -1,0 +1,2 @@
+<!--pages/example/arti1/article.wxml-->
+<text>{{page}}.wxml</text>
