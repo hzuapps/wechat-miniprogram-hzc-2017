@@ -1,0 +1,22 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">Tea</view>
+        <view class="page__desc">Culture</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">茶文化简介</view>
+                    <view class="weui-article__p">
+　　茶文化意为饮茶活动过程中形成的文化特征，包括茶道、茶德、茶精神、茶联、茶书、茶具、茶画、茶学、茶故事、茶艺等等。茶文化起源地为中国。中国是茶的故乡，中国人饮茶，据说始于神农时代，少说也有4700多年了。直到现在，中华同胞还有民以茶代礼的风俗。中国各地对茶的配制是多种多样的：有太湖的熏豆茶、苏州的香味茶、湖南的姜盐茶、蜀山的侠君茶、台湾的冻顶茶、杭州的龙井茶、福建的乌龙茶等。全世界一百多个国家和地区的人喜爱品茶，各国茶文化各不相同，各有千秋；中国茶文化反映出中华民族的悠久的文明和礼仪。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/tea culture1.png" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/tea culture2.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
