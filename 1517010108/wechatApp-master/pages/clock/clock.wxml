@@ -1,0 +1,44 @@
+<page>
+<view class="main">
+   <text class="clock">闹钟提醒</text>
+   <scroll-view scroll-y="true" class="content">
+      <block wx:for-items="{{reminder}}" wx:for-item="reminder_list">
+        <view class="content_state">
+            <image class="img" src="{{reminder_list.imgo}}" >
+            </image>
+            <view class="content_state_left">
+                <text class="data">{{reminder_list.content_state_left.data1}}</text>
+                <text class="alarm_clock">{{reminder_list.content_state_left.data2}}</text>
+            </view>
+             <view class="content_state_center">
+                <text class="remind">{{reminder_list.content_state_center.remind1}}</text>
+                <text class="every">{{reminder_list.content_state_center.remind2}}</text>
+            </view> 
+             <view class="content_state_right">
+                <image class="arrow" src="{{arrow}}"></image>
+             </view>           
+        </view>
+      </block>
+   </scroll-view>
+   
+   <scroll-view scroll-y="true" class="footer">
+        <image class="voice" src="{{voice.imgo}}"></image>
+        <view class="longen">
+            <text class="voice_o"></text>
+            <text class="voice_t"></text>
+            <text class="text"></text>
+        </view>
+        <view class='send'>
+            <text class=' iconfont {{sendicon}}' bindtap="changeico"></text>
+            <view class='cotent' >
+                <input wx:if="{{ipt}}" bindchange='speakchange'/>
+                <button type="default" bindtouchstart="audiostart"
+                bindtouchend="audioend" class="btn" wx:if="{{!ipt}}">
+                按住说话
+                </button>
+            </view>
+            <image src="{{jia}}" bindtap="dosend" class="go"></image>
+        </view>  
+   </scroll-view> 
+</view>
+</page>

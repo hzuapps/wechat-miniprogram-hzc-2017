@@ -1,0 +1,42 @@
+
+@import 'iconfont.wxss';
+
+
+.talk{
+  background-color: #f1f0f6; 
+  height: 1000rpx;
+  margin: auto;
+  padding: 10rpx 2%  10rpx 2%;
+  box-sizing: border-box;
+}
+
+.people{margin:20rpx 0 }
+
+.headimg_other{ width:100rpx; height: 100rpx; background-color: #eeeeee; float: left; }
+.speak_other{ background-color:white; padding: 20rpx 10rpx; border-radius:10rpx; margin-left: 20rpx; max-width: 400rpx; display: inline-block;  }
+
+.headimg_me{ width: 100rpx; height: 100rpx; background-color: #eeeeee; float: right; }
+.speak_me{ background-color:#a0e75a; color: white;  padding: 20rpx 10rpx; border-radius:10rpx;  float: right; margin-right: 20rpx;  max-width: 400rpx; }
+
+
+.send{height: 118rpx; line-height: 80rpx ;  background-color:#f4f4f4; 
+ width: 100%;  padding: 20rpx 5%; box-sizing: border-box;   
+  border: #e0e0e0 solid 1px; border-left:none; border-right:none; 
+  position: fixed;
+  bottom: 0;
+   }
+
+.icon{float: left; width:20% ; text-align: center; }
+
+.cotent{  border-radius:2rpx; background-color:white; float: left;  width:55% ; text-align: center;}
+.ipt{height: 80rpx; line-height: 80rpx  }
+.btn{height: 80rpx; line-height: 80rpx}
+
+.fasong{   width:25% ; float: left; text-align: center; }
+.fasongbtn{font-size:20rpx; width: 70%; height: 80rpx; line-height: 80rpx}
+
+.model{line-height: 60rpx; width: 200rpx; margin: 0; margin-left: 120rpx; margin-top: 20rpx}
+
+.select{width: 60rpx; height: 60rpx; margin-top: -20rpx; position: relative; top:18rpx}
+
+.picker{background-color:#f1f0f6; display: inline-block; height: 48rpx; border-radius: 4rpx  }
