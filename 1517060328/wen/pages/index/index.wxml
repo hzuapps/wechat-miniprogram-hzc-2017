@@ -1,0 +1,27 @@
+<!--index.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">微信小程序开发</view>
+        <view class="page__desc">示例列表</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells__title">组件开发</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/navbar/navbar" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">篮球赞美词</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+            <navigator url="/pages/example/grid/grid" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">篮球展示</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+        <view class="weui-cells__title">官方例子</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="/pages/example/article/article" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">人生如篮，事事如球</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">打开</view>
+            </navigator>
+        </view>
+    </view>
+</view>
