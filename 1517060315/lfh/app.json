@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/sd/sd",
+    "pages/example/jz/jz",
+    "pages/hb/hb"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FF0000",
+    "navigationBarTitleText": "梁风函",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "backgroundColor": "#FF0000",
+   
+    "list": [
+      {
+        "selectedIconPath": "pages/image/12.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/12.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "text": "历代首领"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/12.jpg",
+        "iconPath": "pages/image/13.jpg",
+        "text": "属性"
+      }
+    ]
+  }
+}
