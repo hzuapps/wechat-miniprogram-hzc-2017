@@ -1,0 +1,102 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">NBA西部球队</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">孟菲斯灰熊</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/015.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">洛杉矶快船</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/011.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">圣安东尼奥马刺</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/012.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">波特兰开拓者</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/004.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">休斯顿火箭</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/013.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">明尼苏达森林狼</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/001.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">犹他爵士</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/003.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">金州勇士</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/009.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">丹佛掘金</view>
+                </view>
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/002.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">洛杉矶湖人</view>
+                  </view>
+                  <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/007.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                  <view class="weui-article__section">
+                    <view class="weui-article__h3">俄克拉荷马雷霆</view>
+                   </view>
+                   <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/005.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                    <view class="weui-article__section">
+                    <view class="weui-article__h3">菲尼克斯太阳</view>
+                   </view>
+                   <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/008.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>  
+                  <view class="weui-article__section">
+                    <view class="weui-article__h3">萨克拉门托国王</view> 
+                  </view>
+                  <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/006.jpg" mode="aspectFit" style="height: 180px" />
+                    </view> 
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">新奥尔良鹈鹕</view>
+                   </view> 
+                   <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/010.jpg" mode="aspectFit" style="height: 180px" />
+                    </view> 
+                    <view class="weui-article__section">
+                    <view class="weui-article__h3">达拉斯小牛</view>
+                </view>   
+                <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/014.jpg" mode="aspectFit" style="height: 180px" />
+                    </view> 
+            </view> 
+        </view>
+    </view>
+</view>

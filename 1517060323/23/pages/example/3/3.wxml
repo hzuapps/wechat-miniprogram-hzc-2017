@@ -1,0 +1,18 @@
+<view class="page"></view>
+    <view class="page__hd">
+        <view class="page__title">介绍</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__p">西部联盟WEST是NBA（National Basketball Association）按地域来分的位于美国西部的所有球队。NBA共有30支球队，西部联盟、东部联盟各15支，按地理位置，西部分西南、西北和太平洋3个区，每区5支球队。对于NBA这样庞大的赛事，编制一个完整的、对各球队尽可能公平的赛程是一件非常复杂的事情。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/b1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                
+            </view>
+        </view>
+    </view>
