@@ -1,0 +1,69 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">Kobe的技术特点</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">速度和运动能力</view>
+                    <view class="weui-article__p">KOBE是一名得分后卫，天赋异禀，他的速度在联盟数一数二。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">防守</view>
+                    <view class="weui-article__p">KOBE是一个出色的防守者，2000-2011的12个赛季中有11个赛季入选了NBA最佳防守阵容第一阵容或第二阵容。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">得分能力强</view>
+                    <view class="weui-article__p">单场81分，单节30分，连续50+
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">后仰跳投</view>
+                    <view class="weui-article__p">作为最接近神的人，后仰跳投这个绝技当然得会。科比的后仰跳投飘逸、优雅，极富观赏性！这点绝不逊于乔丹。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">背身单打</view>
+                    <view class="weui-article__p">外线球员也会采用此种进攻方式，迈克尔·乔丹、科比·布莱恩特将外线球员的背身单打演化成为一种极致，现役NBA球员中卡梅隆·安东尼、勒布朗·詹姆斯等外线球员也具有相当不错的背身单打能力。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">急停跳投</view>
+                    <view class="weui-article__p">急停跳投是进攻队员在行进间运用突然急停摆脱防守队员后投篮的方法，分持球急停跳投和运球急停跳投两种。 接球急停跳投是在快速移动中，用跨步或跳步急停接球，并及时起跳投篮。 运球急停跳投是突破结合跳投的重要方式。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">假动作与节奏</view>
+                    <view class="weui-article__p">科比的脚步动作经常能迷惑对手，凭借着丰富的经验，对手措不及防。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/7.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+               
+                
+            </view>
+        </view>
+    </view>
+</view>
