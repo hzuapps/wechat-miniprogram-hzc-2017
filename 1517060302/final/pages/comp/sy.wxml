@@ -1,0 +1,25 @@
+<view class="sy">首页</view> 
+    <swiper indicator-dots="{{indicatorDots}}"  
+    autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">  
+        <block wx:for="{{imgUrls}}">  
+            <swiper-item>  
+               <image src="{{item}}" class="slide-image" mode="aspectFill" style='width: 100%'/>  
+            </swiper-item>  
+        </block>  
+    </swiper>
+<view class="viewTitle">
+    <text class='sy'></text>
+</view>
+<!--样式一，横向排列-->
+<view class="section">
+    <view class="sy">神作推荐</view>
+    <view class="flex-wrp">
+        <view class="flex-item-01"><image class="sy_i-1" src="/pages/example/images/clannad.jpg" style="height: 180px;width: 200px"/><text class='t01'>CLANNAD</text></view>
+        <view class="flex-item-02"><image class="sy_i-2" src="/pages/example/images/zewg.jpg" style="height: 180px;width: 200px"/><text class='t02'>罪恶王冠</text></view>
+    </view>
+    <view class='flex_xx'>
+    <view class="flex-item-03"><image class="sy_i-3" src="/pages/example/images/daojian.jpg" style="height: 250px;width: 100%"/><navigator url="../../pages/logs/logs">
+  <text class='dj01'>刀剑神域</text>
+</navigator></view>
+    </view>
+</view>

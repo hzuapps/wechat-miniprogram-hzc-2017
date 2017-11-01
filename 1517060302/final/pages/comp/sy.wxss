@@ -1,0 +1,45 @@
+.sy{
+  color: blue;
+  text-align: center;
+  background: yellow;
+}
+.flex-wrp{
+    height: 100px;
+    display: flex;
+    background-color: #ffffff;
+}
+.flex-item{
+    width: 100px;
+    height: 100px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.sy_i-2{
+  margin-left: 13px;
+}
+.flex-item-03{
+  margin-top:80px;
+}
+.t02{
+  margin-left: 15px;
+  font-size: 15px;
+  color: blue;
+}
+.flex-item-03{
+  margin-top: 130px;
+}
+.dj01{
+  color: blue;
+  font-size: 15px;
+}
+.t01{
+  font-size: 15px;
+  color: blue;
+}
+swiper{  
+    margin: 0 auto;  
+    height: 200px;  
+    width: 100%;  
+}

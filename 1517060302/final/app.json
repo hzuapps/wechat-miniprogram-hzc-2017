@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/comp/sy",
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/logs/logs",
+    "pages/comp/view",
+    "pages/example/list/list",
+    "pages/example/article/article",
+    "pages/form/form",
+    "pages/comp/swiper",
+    "pages/comp/gdym",
+    "pages/login/login"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#BBDEF8",
+    "navigationBarTitleText": "动漫探长",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/comp/sy",
+        "iconPath": "pages/example/images/sy1.png",
+        "selectedIconPath": "pages/example/images/sy.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "iconPath": "pages/example/images/fx1.png",
+        "selectedIconPath": "pages/example/images/fx.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/comp/gdym",
+        "iconPath": "pages/example/images/gd1.png",
+        "selectedIconPath": "pages/example/images/gd.png",
+        "text": "更多推荐"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "iconPath": "pages/example/images/wo1.png",
+        "selectedIconPath": "pages/example/images/wo.png",
+        "text": "我"
+      }
+    ]
+  }
+}
