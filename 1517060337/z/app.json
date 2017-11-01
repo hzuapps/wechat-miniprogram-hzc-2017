@@ -1,0 +1,39 @@
+{
+"pages": [
+  "pages/index/index",
+  "pages/example/article/article",
+  "pages/form/form",
+  "pages/comp/scroll",
+  "pages/example/arti1/arti1",
+  "pages/example/arti2/article",
+  "pages/example/arti3/article"
+],
+"window": {
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTitleText": "动物世界",
+  "navigationBarTextStyle": "white"
+},
+"tabBar": {
+  "list": [
+    {
+      "pagePath": "pages/index/index",
+      "iconPath": "images/1.png",
+      "selectedIconPath": "images/11.png",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/comp/scroll",
+      "iconPath": "images/2.png",
+      "selectedIconPath": "images/22.png",
+      "text": "发现"
+    },
+    {
+      "pagePath": "pages/form/form",
+      "iconPath": "images/3.png",
+      "selectedIconPath": "images/33.png",
+      "text": "我"
+    }
+  ]
+}
+}
