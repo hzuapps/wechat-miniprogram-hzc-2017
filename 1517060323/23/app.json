@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/1/1",
+    "pages/example/2/2",
+    "pages/example/3/3"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FF0000",
+    "navigationBarTitleText": "彭扬鸿",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "backgroundColor": "#FF0000",
+   
+    "list": [
+      {
+        "selectedIconPath": "pages/image/02.png",
+        "iconPath": "pages/image/01.png",
+        "pagePath": "pages/index/index",
+        "text": "信息"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/02.png",
+        "iconPath": "pages/image/01.png",
+        "text": "职业"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/02.png",
+        "iconPath": "pages/image/01.png",
+        "text": "提交"
+      }
+    ]
+  }
+}
