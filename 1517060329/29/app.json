@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/comp/scroll",
+    "pages/form/form",
+    "pages/example/article/article",
+    "pages/example/qqweq/qqweq",
+    "pages/fm/fm"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#616161",
+    "navigationBarTitleText": "吴崇杰",
+    "navigationBarTextStyle": "while"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "backgroundColor": "#616161",
+   
+    "list": [
+      {
+        "iconPath": "pages/image/13.png",
+        "selectedIconPath": "pages/image/14.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/comp/scroll",
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "text": "职业"
+      },
+      {
+        "pagePath": "pages/form/form",
+        "selectedIconPath": "pages/image/14.png",
+        "iconPath": "pages/image/13.png",
+        "text": "提交"
+      }
+    ]
+  }
+}

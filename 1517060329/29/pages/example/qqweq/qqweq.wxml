@@ -1,0 +1,57 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">NBA东部球队</view>
+        
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">骑士</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">猛龙</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">热火</view>
+                </view>
+             <view class="weui-article__section">
+                    <view class="weui-article__h3">老鹰</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">凯尔特人</view>
+                </view>
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">黄蜂</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">步行者</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">活塞</view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">公牛</view>
+                </view>
+                 <view class="weui-article__section">
+                    <view class="weui-article__h3">奇才</view>
+                  </view>    
+                  <view class="weui-article__section">
+                    <view class="weui-article__h3">魔术</view>
+                   </view>
+                    <view class="weui-article__section">
+                    <view class="weui-article__h3">雄鹿</view>
+                   </view>  
+                  <view class="weui-article__section">
+                    <view class="weui-article__h3">尼克斯</view> 
+                  </view> 
+                   <view class="weui-article__section">
+                    <view class="weui-article__h3">篮网</view>
+                   </view>  
+                    <view class="weui-article__section">
+                    <view class="weui-article__h3">76人</view>
+                </view>    
+            </view> 
+        </view>
+    </view>
+</view>

@@ -1,0 +1,120 @@
+<view class="page"></view>
+    <view class="page__hd">
+        <view class="page__title">名人堂</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__section">
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">迈克尔乔丹</view>
+                    <view class="weui-article__p">NBA篮球之神
+迈克尔·乔丹在在1984年NBA选秀中于第1轮第3位被芝加哥公牛队选中，职业生涯曾效力于芝加哥公牛队以及华盛顿奇才队，新秀赛季当选NBA年度最佳新秀。1986-87赛季，乔丹场均得到37.1分，首次获得NBA得分王称号。1991-93赛季，乔丹连续当选常规赛MVP以及总决赛MVP（FMVP），率领芝加哥公牛队3夺NBA总冠军。1993年10月6日因父亲被害而宣布退役，两年后宣布复出。1996年入选NBA50大巨星。1996-98赛季，乔丹荣膺个人职业生涯第10次（共10次）NBA得分王以及第5次（共5次）常规赛MVP，并再次率领公牛队3夺（共6次）NBA总冠军，自己当选共第6次总决赛MVP。1999年1月13日在劳资谈判失败后再次宣布退役，两年后在华盛顿奇才队再次宣布复出。迈克尔·乔丹的职业生涯年年入选NBA全明星阵容（共14次）并3次当选NBA全明星MVP，10次入选NBA最佳阵容一阵，1985年入选NBA最佳阵容二阵，1988年荣膺NBA年度最佳防守球员，9次入选NBA最佳防守阵容一阵，3次荣膺NBA抢断王，2次夺得NBA全明星扣篮大赛冠军，1984年以及1992年夺得奥运会金牌。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/1.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">埃尔文·约翰逊 </view>
+                    <view class="weui-article__p">“魔术师”的NBA传奇控球后卫
+埃尔文·约翰逊在1979年NBA选秀中于第1轮第1位以状元秀的身份被洛杉矶湖人队选中  ，职业生涯全部效力于洛杉矶湖人队  。1980、1982、1985、1987-88年随湖人队五夺NBA总冠军  。新秀赛季的他在首场季后赛即拿下“三双”数据  ，最终获得职业生涯的第一个总冠军并成为NBA有史以来最年轻的总决赛最有价值球员（20岁276天） 。NBA生涯3次当选常规赛最有价值球员（MVP）  ，3次当选NBA总决赛最有价值球员（FMVP）  ，12次入选NBA全明星阵容  （2次当选NBA全明星MVP） ，9次入选NBA最佳阵容一阵  ，1982年入选NBA最佳阵容二阵 ，2次当选NBA抢断王  ，4次当选NBA助攻王  。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/2.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">卡里姆·阿布杜尔-贾巴尔</view>
+                    <view class="weui-article__p">NBA历史得分王
+在1969年NBA选秀中于第1轮第1位以状元秀的身份被密沃尔基雄鹿队选中  ，新秀赛季当选NBA年度最佳新秀  。1970-71赛季贾巴尔场均31.7分 ，获得常规赛MVP以及NBA得分王称号  ，并率队获得NBA总冠军  。1976年转投洛杉矶湖人队  ，与有“魔术师”之称的埃尔文·约翰逊成为湖人队的两大支柱 ，率领球队五次夺得NBA总冠军 。职业生涯6次当选NBA常规赛MVP ，2次当选NBA总决赛MVP（FMVP），  10次入选NBA最佳阵容一阵 ，5次入选NBA最佳阵容二阵，  5次入选NBA最佳防守阵容一阵 ，6次入选NBA最佳防守阵容二阵  ，19次入选NBA全明星阵容  ，2次当选NBA得分王  ，4次当选NBA盖帽王 。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/3.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">科比·布莱恩特 </view>
+                    <view class="weui-article__p">小飞侠，当场得分第二名
+科比·布莱恩特（Kobe Bryant），1978年8月23日出生于美国宾夕法尼亚州费城，前美国职业篮球运动员，司职得分后卫/小前锋（锋卫摇摆人），绰号“黑曼巴”/“小飞侠”，  整个NBA生涯（1996年-2016年）全部效力于NBA洛杉矶湖人队，是前NBA球员乔·布莱恩特的儿子。科比是NBA最好的得分手之一，生涯赢得无数奖项  ，突破、投篮、罚球、三分球他都驾轻就熟，几乎没有进攻盲区，单场比赛81分的个人纪录就有力地证明了这一点。除了疯狂的得分外，科比的组织能力也很出众，经常担任球队进攻的第一发起人。另外科比还是联盟中最好的防守人之一，贴身防守非常具有压迫性。
+ </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/4.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                      </view>
+                    <view class="weui-article__section">
+                    <view class="weui-article__h3">阿伦·艾弗森  </view>
+                    <view class="weui-article__p">绰号“答案”
+阿伦·艾弗森在1996年NBA选秀中于第1轮第1位被费城76人队选中，成为NBA状元秀。  在14年的职业生涯中，阿伦·艾弗森 曾效力于76人、掘金、灰熊以及活塞四支NBA球队，新秀赛季荣获最佳新秀以及新秀挑战赛MVP，  4次荣膺NBA得分王，3次荣膺NBA抢断王 ，2000-10年连续11次入选NBA全明星阵容并夺得2次NBA全明星MVP， 3次入选NBA最佳阵容一阵，3次入选NBA最佳阵容二阵 ，2006年入选NBA最佳阵容三阵。  2000-2001赛季，艾弗森打出了生涯最好表现，当选该赛季的NBA常规赛MVP ，并帮助76人队打入NBA总决赛  ，但未夺冠。 
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/5.jpg" mode="aspectFit" style="height: 180px" />
+                  
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">沙奎尔·奥尼尔</view>
+                    <view class="weui-article__p">绰号“大鲨鱼”
+沙奎尔·奥尼尔在1992年NBA选秀中于第1轮第1位以状元秀的身份被奥兰多魔术队选中  ，职业生涯曾效力于奥兰多魔术队、洛杉矶湖人队、迈阿密热火队、菲尼克斯太阳队、克里夫兰骑士队以及波士顿凯尔特人队，新秀赛季当选NBA年度最佳新秀，4次夺得NBA总冠军  ，2000年当选NBA常规赛MVP ，3次当选NBA总决赛MVP（FMVP）  ，15次入选NBA全明星阵容并3次当选NBA全明星MVP  ，8次入选NBA最佳阵容一阵，4次入选NBA最佳阵容二阵  ，2次入选NBA最佳阵容三阵  ，3次入选NBA最佳防守阵容二阵  ，2次当选NBA得分王 。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/6.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">威尔特·张伯伦</view>
+                    <view class="weui-article__p">绰号“上古神兽”
+威尔特·张伯伦的职业生涯曾效力于NBA费城/旧金山勇士队（现金州勇士队）、费城76人队以及洛杉矶湖人队；毕业于堪萨斯大学的他在NBA打球之前曾在哈林篮球队效力，之后被认为是NBA历史上具有统治力的球员之一。  2次夺得NBA总冠军（1972年NBA总决赛MVP），4次荣膺NBA常规赛MVP，13次入选NBA全明星阵容（1960年NBA全明星MVP），10次入选NBA最佳阵容（7次一阵，3次二阵），1972-73年连续2次入选NBA最佳防守阵容一阵，1960-66年连续7次荣膺NBA得分王，11次荣膺NBA篮板王，1968年荣膺NBA助攻王。 威尔特·张伯伦拥有众多的NBA历史记录，他是惟一一个在一个赛季比赛场均得分超过40和50分的球员，他最著名的纪录是单场100分。他还赢得了七届NBA得分王，十一届NBA篮板王，还有一届NBA助攻王（NBA唯一一位拥有助攻王头衔的中锋） 。张伯伦在NBA历史上是唯一的赛季场均至少30分+20篮板的球员，而且他做到了七次。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/7.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">比尔·拉塞尔</view>
+                    <view class="weui-article__p">绰号“指环王”
+比尔·拉塞尔（Bill Russell），1934年2月12日出生于美国路易斯安那州门罗市，前美国职业篮球运动员，司职中锋，因在球员中拥有最多的总冠军戒指（11枚  ）而绰号“指环王”  。1956年在选秀大会上，比尔·拉塞尔以榜眼秀的身份被圣路易斯老鹰队（现亚特兰大老鹰队  ）选中，在阿诺德·奥尔巴赫的一系列转会运作下加盟波士顿凯尔特人队  。  在比尔·拉塞尔出任中锋期间，凯尔特人队在10个赛季中夺得9次NBA总冠军 ，  其中包括一个8连冠（1959-66） 。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/8.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">哈基姆·奥拉朱旺</view>
+                    <view class="weui-article__p">绰号“大梦”
+哈基姆·奥拉朱旺大学时就读于休斯顿大学  ，曾带领休斯顿美洲狮队三度杀到了四强赛  。在1984年NBA选秀中，哈基姆·奥拉朱旺在第1轮第1位被休斯顿火箭队选中  ，职业生涯曾效力于休斯顿火箭队以及多伦多猛龙队  。1993-94赛季，当赛季当选NBA常规赛MVP的奥拉朱旺带领火箭夺得NBA总冠军 ，他也成为了NBA历史上首位在一个赛季同时当选常规赛MVP、年度最佳防守球员以及总决赛MVP（FMVP）的球员  。火箭队则连续2年问鼎NBA总冠军 ，分别是战胜了拥有帕特里克·尤因的纽约尼克斯队和沙奎尔·奥尼尔的奥兰多魔术队  。奥拉朱旺的NAB生涯共12次入选NBA全明星阵容  ，6次入选NBA最佳阵容一阵  ，3次入选NBA最佳阵容二阵  ，3次入选NBA最佳阵容三阵 ，2次荣膺NBA年度最佳防守球员  ，5次入选NBA最佳防守阵容一阵  ，4次入选NBA最佳防守阵容二阵  ，2次当选NBA篮板王 ，3次当选NBA盖帽王 。1996年，奥拉朱旺跟随美国梦之队夺得了奥运会金牌 ，同年入选NBA50大巨星 。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/9.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">帕特里克·尤因</view>
+                    <view class="weui-article__p">绰号“大猩猩”
+帕特里克·尤因在1985年NBA选秀中于第1轮第1位以状元秀的身份被纽约尼克斯队选中 ，职业生涯曾效力于纽约尼克斯队、西雅图超音速队以及奥兰多魔术队  ，新秀赛季当选NBA年度最佳新秀，  11次入选NBA全明星阵容，  1990年入选NBA最佳阵容一阵， 6次入选NBA最佳阵容二阵， 3次入选NBA最佳防守阵容二阵 ，1984、1992年随美国队两夺奥运会金牌  。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/10.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">丹尼斯·罗德曼</view>
+                    <view class="weui-article__p">绰号“大虫”
+丹尼斯·罗德曼在1986年NBA选秀中于第2轮第27顺位被底特律活塞队选中，1995-96赛季被交易至芝加哥公牛队，联手迈克尔·乔丹，斯科特·皮蓬组成“铁三角”组合，并于当赛季常规赛收获72胜10负的历史第2好战绩。在1995-96赛季开始到1997-98赛季，连续三年获得NBA总冠军，建立公牛王朝。在1999-00赛季为小牛效力12场比赛后于2000年3月8日宣布从NBA退役  。退役之后的罗德曼曾参加国外联赛，并于2006年正式宣布退役  。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/11.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    <view class="weui-article__h3">大卫·罗宾逊</view>
+                    <view class="weui-article__p">大卫·罗宾逊
+大卫·罗宾逊在1987年NBA选秀中被圣安东尼奥马刺队以首轮第一顺位选中，之后在美国海军服役两年，1989年正式进入NBA，职业生涯（1989年-2003年）全部效力于马刺队  。新秀赛季获选NBA年度最佳新秀；1999年与2003年随马刺队两夺NBA总冠军  。1995年获选常规赛最有价值球员（MVP）；4次入选NBA最佳阵容一阵；4次入选NBA最佳防守阵容一阵；10次入选NBA全明星赛；获得1次得分王、1次盖帽王和1次篮板王。1994年在比赛中拿到“四双”数据；1995年得到生涯单场最高得分71分  。1992年和1996年代表美国男篮“梦一队”和“梦三队”获得两届奥运会金牌 。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="/pages/image/12.jpg" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                
+            </view>
+        </view>
+    </view>
+</view>
